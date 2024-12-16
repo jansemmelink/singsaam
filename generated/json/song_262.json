@@ -1,0 +1,181 @@
+{
+  "source_file": "../../files/TienduisendMyl.txt",
+  "title": "TIENDUISEND MYL",
+  "artists": [
+    "Grafsteensangers"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "So",
+          "lank",
+          "die",
+          "sterre",
+          "helder",
+          "skyn"
+        ],
+        [
+          "So",
+          "lank",
+          "die",
+          "dag",
+          "begin"
+        ],
+        [
+          "Gee",
+          "ek",
+          "aan",
+          "jou,",
+          "my",
+          "hartjie",
+          "fyn"
+        ],
+        [
+          "En",
+          "ek",
+          "sal",
+          "jou",
+          "altyd",
+          "bemin"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Tienduisend",
+          "myl,",
+          "so",
+          "vêr",
+          "van",
+          "my"
+        ],
+        [
+          "Tienduisend",
+          "myl",
+          "geskei"
+        ],
+        [
+          "Alleen",
+          "is",
+          "ek,",
+          "my",
+          "hart",
+          "is",
+          "seer"
+        ],
+        [
+          "Want",
+          "vir",
+          "jou,",
+          "sien",
+          "ek",
+          "nie",
+          "weer"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Wie",
+          "sal",
+          "jou",
+          "troos,",
+          "wanneer",
+          "ek",
+          "treur?"
+        ],
+        [
+          "En",
+          "wie",
+          "sal",
+          "oor",
+          "jou",
+          "wag?"
+        ],
+        [
+          "En",
+          "hoe",
+          "gaan",
+          "ek,",
+          "die",
+          "lewe",
+          "deur"
+        ],
+        [
+          "Om",
+          "nooit",
+          "weer",
+          "met",
+          "jou",
+          "te",
+          "lag"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "nag",
+          "voor",
+          "jy,",
+          "vir",
+          "my",
+          "verlaat"
+        ],
+        [
+          "Het",
+          "jy",
+          "geweet",
+          "dat",
+          "ons",
+          "moes",
+          "trou"
+        ],
+        [
+          "Jy",
+          "het",
+          "beloof",
+          "om",
+          "getrou",
+          "te",
+          "bly"
+        ],
+        [
+          "Nou",
+          "sit",
+          "ek",
+          "hier,",
+          "alleen",
+          "en",
+          "rou!"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "source_file": "../../files/SaaiDieWaatlemoen.txt",
+  "title": "SAAI DIE WAATLEMOEN",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Saai",
+          "die",
+          "waatlemoen,",
+          "saai",
+          "die",
+          "waatlemoen,"
+        ],
+        [
+          "Saai",
+          "die",
+          "waatlemoen,",
+          "saai",
+          "die",
+          "waatlemoen."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "mamma",
+          "roei",
+          "die",
+          "skuitjie,"
+        ],
+        [
+          "My",
+          "pappa",
+          "blaas",
+          "die",
+          "fluitjie,"
+        ],
+        [
+          "My",
+          "boetie",
+          "draai",
+          "die",
+          "orreltjie,"
+        ],
+        [
+          "Saai",
+          "die",
+          "waatlemoen."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Pluk",
+          "die",
+          "waatlemoen"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Sny",
+          "die",
+          "waatlemoen"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Eet",
+          "die",
+          "waatlemoen"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Spoeg",
+          "die",
+          "pitte",
+          "uit"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tel",
+          "die",
+          "pitte",
+          "op"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Plant",
+          "die",
+          "pitte",
+          "weer"
+        ]
+      ]
+    }
+  ]
+}

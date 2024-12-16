@@ -1,0 +1,307 @@
+{
+  "source_file": "../../files/HierKomDieBokke.txt",
+  "title": "HIER KOM DIE BOKKE",
+  "artists": [
+    "Lion Schuster"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HOES"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EN",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "HANE",
+          "-"
+        ],
+        [
+          "KRAAI",
+          "NIE",
+          "MEER",
+          "NIE",
+          "DAAR'S",
+          "NET",
+          "TRANE"
+        ],
+        [
+          "EN",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "IERE",
+          "-"
+        ],
+        [
+          "PLANT",
+          "NET",
+          "BLOMME",
+          "BY",
+          "HUL",
+          "VURE"
+        ],
+        [
+          "EN",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "ROSE",
+          "-"
+        ],
+        [
+          "SPEEL",
+          "SOOS",
+          "MANNE",
+          "MET",
+          "NARKOSE"
+        ],
+        [
+          "EN",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "WALLIS",
+          "-"
+        ],
+        [
+          "HET",
+          "NIE",
+          "'n",
+          "CLUE",
+          "NIE",
+          "WAAR",
+          "DIE",
+          "BAL",
+          "IS"
+        ],
+        [
+          "EN",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "KIWI"
+        ],
+        [
+          "HET",
+          "NIE",
+          "MEER",
+          "WIND",
+          "NIE",
+          ",NET",
+          "'N",
+          "WEE-WEE"
+        ],
+        [
+          "EN",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "AUSSIES",
+          "-"
+        ],
+        [
+          "IS",
+          "GETOOR",
+          "MET",
+          "TOKOLOSSIE"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "JA",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "HANE",
+          "-",
+          "KRAAI",
+          "NIE",
+          "MEER",
+          "NIE",
+          "DAAR'S",
+          "NET",
+          "TRANE"
+        ],
+        [
+          "EN",
+          "DIE",
+          "MANNE",
+          "VAN",
+          "DIE",
+          "SKOTTE",
+          "-"
+        ],
+        [
+          "HUL",
+          "DRAAI",
+          "NET",
+          "HEEL",
+          "TYD",
+          "IN",
+          "DIE",
+          "RONDTE"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HOES"
+        ],
+        [
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HOES"
+        ],
+        [
+          "KOM",
+          "NOU",
+          "BOKKE",
+          "MAAK",
+          "NOU",
+          "SEKER"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HOES"
+        ],
+        [
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HIER",
+          "KOM",
+          "DIE",
+          "BOKKE",
+          "--",
+          "HOES"
+        ],
+        [
+          "BRING",
+          "VIR",
+          "ONS",
+          "DIE",
+          "WERELD",
+          "BEKER"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "CHA",
+          "--",
+          "CHA",
+          "BOKKE",
+          "--",
+          "CHA",
+          "--",
+          "CHA",
+          "BOKKE"
+        ],
+        [
+          "CHA",
+          "--",
+          "CHA",
+          "BOKKE",
+          "EBAYETE"
+        ],
+        [
+          "YEBO",
+          "--",
+          "GOGO",
+          "--",
+          "YEBO",
+          "--",
+          "GOBO"
+        ],
+        [
+          "BRING",
+          "NOG",
+          "'N",
+          "DRIE",
+          "VAN",
+          "STEVE",
+          "TSWETE"
+        ]
+      ]
+    }
+  ]
+}

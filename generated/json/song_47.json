@@ -1,0 +1,89 @@
+{
+  "source_file": "../../files/DaarLeDieDing.txt",
+  "title": "DAAR Lê DIE DING",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Jou",
+          "kombers",
+          "en",
+          "my",
+          "matras",
+          "en",
+          "daar",
+          "lê",
+          "die",
+          "ding,"
+        ],
+        [
+          "Daar",
+          "lê",
+          "die",
+          "ding,",
+          "daar",
+          "lê",
+          "die",
+          "ding."
+        ],
+        [
+          "Jou",
+          "kombers",
+          "en",
+          "my",
+          "matras",
+          "en",
+          "daar",
+          "lê",
+          "die",
+          "ding,"
+        ],
+        [
+          "Daar",
+          "lê",
+          "die",
+          "ding,",
+          "daar",
+          "lê",
+          "die",
+          "ding."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "We",
+          "are",
+          "marching",
+          "to",
+          "Pretoria,"
+        ],
+        [
+          "Pretoria,",
+          "Pretoria,"
+        ],
+        [
+          "We",
+          "are",
+          "marching",
+          "to",
+          "Pretoria,"
+        ],
+        [
+          "Pretoria",
+          "rules",
+          "the",
+          "waves"
+        ]
+      ]
+    }
+  ]
+}

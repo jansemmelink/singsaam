@@ -1,0 +1,145 @@
+{
+  "source_file": "../../files/AanstapAanstap.txt",
+  "title": "AANSTAP, AANSTAP",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Aanstap,",
+          "aanstap,",
+          "somertyd",
+          "is",
+          "hier!"
+        ],
+        [
+          "Stap",
+          "langs",
+          "heuwelland,"
+        ],
+        [
+          "stap",
+          "so",
+          "flink",
+          "en",
+          "fier,"
+        ],
+        [
+          "sing",
+          "van",
+          "puur",
+          "plesier;"
+        ],
+        [
+          "aanstap,",
+          "hand",
+          "aan",
+          "hand!"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Aanstap",
+          "waar",
+          "die",
+          "waterstrome",
+          "vloei,"
+        ],
+        [
+          "deur",
+          "die",
+          "veld",
+          "en",
+          "vlei"
+        ],
+        [
+          "waar",
+          "die",
+          "heide",
+          "groei"
+        ],
+        [
+          "en",
+          "die",
+          "lelies",
+          "bloei:"
+        ],
+        [
+          "daar's",
+          "die",
+          "lewe",
+          "vry!"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Aanstap",
+          "in",
+          "die",
+          "vroeë",
+          "môrelug"
+        ],
+        [
+          "langs",
+          "die",
+          "bos",
+          "se",
+          "soom,"
+        ],
+        [
+          "waar",
+          "die",
+          "ribbok",
+          "vlug"
+        ],
+        [
+          "oor",
+          "die",
+          "rant",
+          "se",
+          "rug,"
+        ],
+        [
+          "waar",
+          "die",
+          "steenbok",
+          "droom."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Links,",
+          "regs,",
+          "links,",
+          "regs,",
+          "onder",
+          "hemelblou;"
+        ],
+        [
+          "laat",
+          "ons",
+          "voorwaarts",
+          "gaan."
+        ]
+      ]
+    }
+  ]
+}

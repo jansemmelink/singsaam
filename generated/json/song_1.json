@@ -1,0 +1,108 @@
+{
+  "source_file": "../../files/AaiAaiDieWitborskraai.txt",
+  "title": "AAI, AAI DIE WITBORSKRAAI",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Aai,",
+          "aai",
+          "die",
+          "witborskraai,"
+        ],
+        [
+          "Hiervandaan",
+          "na",
+          "Mosselbaai"
+        ],
+        [
+          "Hoog",
+          "gevlieg",
+          "en",
+          "laag",
+          "geswaai"
+        ],
+        [
+          "By",
+          "die",
+          "groot",
+          "see",
+          "omgedraai."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Haai,",
+          "haai",
+          "Piet",
+          "Kapaai"
+        ],
+        [
+          "Het",
+          "sy",
+          "rietgeweer",
+          "gelaai"
+        ],
+        [
+          "Tier",
+          "gaan",
+          "skiet",
+          "by",
+          "Mosselbaai"
+        ],
+        [
+          "Nooit",
+          "nie",
+          "weer",
+          "daar",
+          "omgedraai."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Fooi,",
+          "fooi,",
+          "Stefaans",
+          "du",
+          "Toit"
+        ],
+        [
+          "Het",
+          "gaan",
+          "kuier",
+          "by",
+          "sy",
+          "nooi"
+        ],
+        [
+          "Met",
+          "sy",
+          "rietperd",
+          "in",
+          "die",
+          "Baai"
+        ],
+        [
+          "Daad'lik",
+          "weer",
+          "daar",
+          "omgedraai"
+        ]
+      ]
+    }
+  ]
+}

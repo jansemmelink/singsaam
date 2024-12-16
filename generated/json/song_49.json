@@ -1,0 +1,212 @@
+{
+  "source_file": "../../files/DaarOorkantDieSpruitStaanNMooiRooiBlom.txt",
+  "title": "DAAR OORKANT DIE SPRUIT",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Daar",
+          "oorkant",
+          "die",
+          "spruit",
+          "staan",
+          "'n",
+          "mooi",
+          "rooi",
+          "blom."
+        ],
+        [
+          "Hoe",
+          "sal",
+          "ek",
+          "maak",
+          "om",
+          "by",
+          "haar",
+          "te",
+          "kom?"
+        ],
+        [
+          "Dit",
+          "te",
+          "ver",
+          "om",
+          "te",
+          "loop,",
+          "dis",
+          "te",
+          "naby",
+          "om",
+          "te",
+          "ry."
+        ],
+        [
+          "Hoe",
+          "sal",
+          "ek",
+          "maak",
+          "om",
+          "die",
+          "nooi",
+          "te",
+          "kry?"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "nie",
+          "myne",
+          "nie,",
+          "dis",
+          "nie",
+          "joune",
+          "nie,"
+        ],
+        [
+          "Dis",
+          "'n",
+          "anderman",
+          "se",
+          "goed",
+          "waar",
+          "jy",
+          "om",
+          "stry."
+        ],
+        [
+          "Dis",
+          "nie",
+          "myne",
+          "nie,",
+          "dis",
+          "nie",
+          "joune",
+          "nie,"
+        ],
+        [
+          "Dis",
+          "'n",
+          "anderman",
+          "se",
+          "goed",
+          "waar",
+          "jy",
+          "om",
+          "stry."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "te",
+          "ver",
+          "om",
+          "te",
+          "ry",
+          "dis",
+          "te",
+          "na",
+          "om",
+          "te",
+          "bly,"
+        ],
+        [
+          "Hoe",
+          "sal",
+          "ek",
+          "maak",
+          "om",
+          "die",
+          "nooi",
+          "te",
+          "kry?"
+        ],
+        [
+          "Die",
+          "pad",
+          "is",
+          "te",
+          "swaar",
+          "en",
+          "die",
+          "perde",
+          "is",
+          "te",
+          "maer,"
+        ],
+        [
+          "Ook",
+          "draai",
+          "ander",
+          "jong",
+          "mans",
+          "daar."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "nie",
+          "myne",
+          "nie,",
+          "dis",
+          "nie",
+          "joune",
+          "nie,"
+        ],
+        [
+          "Dis",
+          "'n",
+          "anderman",
+          "se",
+          "goed",
+          "waar",
+          "jy",
+          "om",
+          "stry."
+        ],
+        [
+          "Dis",
+          "nie",
+          "myne",
+          "nie,",
+          "din",
+          "nie",
+          "joune",
+          "nie,"
+        ],
+        [
+          "Dis",
+          "'n",
+          "anderman",
+          "se",
+          "goed",
+          "waar",
+          "jy",
+          "om",
+          "stry."
+        ]
+      ]
+    }
+  ]
+}

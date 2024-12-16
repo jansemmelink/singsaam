@@ -1,0 +1,133 @@
+{
+  "source_file": "../../files/AlleVureBrandNou.txt",
+  "title": "ALLE VURE BRAND NOU",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Alle",
+          "vure",
+          "brand",
+          "nou,",
+          "alle",
+          "vure",
+          "brand",
+          "nou,"
+        ],
+        [
+          "Net",
+          "vergete",
+          "vure",
+          "nie."
+        ],
+        [
+          "Alle",
+          "vure",
+          "brand",
+          "nou,",
+          "alle",
+          "vure",
+          "brand",
+          "nou,"
+        ],
+        [
+          "Net",
+          "vergete",
+          "vure",
+          "nie."
+        ],
+        [
+          "O,",
+          "ou",
+          "kampvuur,",
+          "jy",
+          "bring",
+          "heimwee",
+          "in",
+          "my",
+          "hart;"
+        ],
+        [
+          "O,",
+          "ou",
+          "kampvuur,",
+          "heimwee",
+          "in",
+          "my",
+          "hart."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Alle",
+          "Trekkers",
+          "slaap",
+          "nou,"
+        ],
+        [
+          "alle",
+          "Trekkers",
+          "slaap",
+          "nou,"
+        ],
+        [
+          "Net",
+          "die",
+          "maats",
+          "wat",
+          "wagstaan",
+          "nie."
+        ],
+        [
+          "Alle",
+          "Trekkers",
+          "slaap",
+          "nou,"
+        ],
+        [
+          "alle",
+          "Trekkers",
+          "slaap",
+          "nou,"
+        ],
+        [
+          "Net",
+          "die",
+          "maats",
+          "wat",
+          "wagstaan",
+          "nie."
+        ],
+        [
+          "O,",
+          "ou",
+          "kampvuur,",
+          "jy",
+          "bring",
+          "heimwee",
+          "in",
+          "my",
+          "hart;"
+        ],
+        [
+          "O,",
+          "ou",
+          "kampvuur,",
+          "heimwee",
+          "in",
+          "my",
+          "hart."
+        ]
+      ]
+    }
+  ]
+}

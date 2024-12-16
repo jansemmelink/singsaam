@@ -1,0 +1,141 @@
+{
+  "source_file": "../../files/InDieStilleNag.txt",
+  "title": "IN DIE STILLE NAG",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "In",
+          "die",
+          "stille",
+          "nag",
+          "onder",
+          "sterreprag"
+        ],
+        [
+          "Sit",
+          "ons",
+          "dromend",
+          "om",
+          "die",
+          "vuur",
+          "en",
+          "sing:"
+        ],
+        [
+          "Van",
+          "die",
+          "silwermaan",
+          "in",
+          "sy",
+          "hemelbaan"
+        ],
+        [
+          "En",
+          "die",
+          "heimwee",
+          "wat",
+          "die",
+          "vuurtjie",
+          "bring."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Waar",
+          "die",
+          "kole",
+          "gloei",
+          "en",
+          "die",
+          "vlamme",
+          "groei,"
+        ],
+        [
+          "Sien",
+          "ons",
+          "beelde",
+          "wat",
+          "verlange",
+          "bring,"
+        ],
+        [
+          "Dwars",
+          "oor",
+          "hierdie",
+          "land,",
+          "waar",
+          "die",
+          "vuurtjies",
+          "brand,"
+        ],
+        [
+          "Sit",
+          "daar",
+          "Trekkers",
+          "net",
+          "soos",
+          "ons",
+          "en",
+          "sing."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "In",
+          "die",
+          "vuur",
+          "se",
+          "lig",
+          "sien",
+          "ek",
+          "jou",
+          "gesig;"
+        ],
+        [
+          "Stewig",
+          "vou",
+          "ons",
+          "hande",
+          "inmekaar",
+          "-"
+        ],
+        [
+          "Saam",
+          "die",
+          "lewe",
+          "in;",
+          "saam",
+          "sal",
+          "ons",
+          "oorwin",
+          "-"
+        ],
+        [
+          "Uit",
+          "die",
+          "donker",
+          "breek",
+          "die",
+          "dag",
+          "al",
+          "klaar."
+        ]
+      ]
+    }
+  ]
+}

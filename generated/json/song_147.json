@@ -1,0 +1,149 @@
+{
+  "source_file": "../../files/KomDansKlaradyn.txt",
+  "title": "KOM DANS KLARADYN",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "dans",
+          "Klaradyn,",
+          "kom",
+          "en",
+          "dans",
+          "weer",
+          "met",
+          "my"
+        ],
+        [
+          "op",
+          "maat",
+          "van",
+          "die",
+          "aandwind",
+          "wat",
+          "wieg",
+          "oor",
+          "die",
+          "wei."
+        ],
+        [
+          "Die",
+          "blomme",
+          "hul",
+          "nooi",
+          "ons,",
+          "die",
+          "feesmaal",
+          "is",
+          "klaar;"
+        ],
+        [
+          "die",
+          "sterretjies",
+          "brand",
+          "al,",
+          "die",
+          "maan",
+          "is",
+          "al",
+          "daar."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "dans",
+          "Klaradyn,",
+          "kom",
+          "dans",
+          "Klaradyn,"
+        ],
+        [
+          "kom",
+          "en",
+          "dans",
+          "weer",
+          "met",
+          "my,",
+          "weer",
+          "met",
+          "my"
+        ],
+        [
+          "op",
+          "maat",
+          "van",
+          "die",
+          "aandwind",
+          "wat",
+          "wieg",
+          "oor",
+          "die",
+          "wei,"
+        ],
+        [
+          "op",
+          "maat",
+          "van",
+          "die",
+          "aandwind",
+          "wat",
+          "wieg",
+          "oor",
+          "die",
+          "wei."
+        ],
+        [
+          "Kom",
+          "dans",
+          "Klaradyn,",
+          "kom",
+          "dans",
+          "Klaradyn,"
+        ],
+        [
+          "kom",
+          "en",
+          "dans",
+          "weer",
+          "met",
+          "my,",
+          "weer",
+          "met",
+          "my"
+        ],
+        [
+          "op",
+          "maat",
+          "van",
+          "die",
+          "aandwind",
+          "wat",
+          "wieg",
+          "oor",
+          "die",
+          "wei,"
+        ],
+        [
+          "die",
+          "aandwind",
+          "wat",
+          "wieg",
+          "oor",
+          "die",
+          "wei."
+        ]
+      ]
+    }
+  ]
+}

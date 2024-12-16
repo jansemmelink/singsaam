@@ -1,0 +1,90 @@
+{
+  "source_file": "../../files/LiefsteMadelein.txt",
+  "title": "LIEFSTE MADELEIN",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Liefste",
+          "Madelein,",
+          "moeder",
+          "skatjie,"
+        ],
+        [
+          "Niks",
+          "kan",
+          "my",
+          "ooit",
+          "bekeer",
+          "soos",
+          "jou",
+          "glimlag,"
+        ],
+        [
+          "Dis",
+          "soos",
+          "sonskyn",
+          "na",
+          "reën",
+          "op",
+          "die",
+          "velde"
+        ],
+        [
+          "Of",
+          "soos",
+          "maanskyn",
+          "op",
+          "seedeinings",
+          "sag."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Liefste",
+          "Madelein,",
+          "moeder",
+          "skatjie,"
+        ],
+        [
+          "In",
+          "jou",
+          "stem",
+          "hoor",
+          "ek",
+          "engele",
+          "sing,"
+        ],
+        [
+          "Dis",
+          "net",
+          "jy",
+          "wat",
+          "my",
+          "hartseer",
+          "kan",
+          "stilmaak"
+        ],
+        [
+          "Dis",
+          "net",
+          "jy",
+          "wat",
+          "my",
+          "vreugde",
+          "kan",
+          "bring."
+        ]
+      ]
+    }
+  ]
+}

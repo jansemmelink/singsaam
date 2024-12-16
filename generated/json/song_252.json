@@ -1,0 +1,280 @@
+{
+  "source_file": "../../files/StilleWaters.txt",
+  "title": "STILLE WATERS",
+  "artists": [
+    "Laurika Rauch"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "JY'T",
+          "GESÊ",
+          "ONS",
+          "LIEFDE",
+          "SAL",
+          "BLY",
+          "STAAN"
+        ],
+        [
+          "AL",
+          "TUIMEL",
+          "AL",
+          "DIE",
+          "BERGE",
+          "IN",
+          "DIE",
+          "OSEAAN"
+        ],
+        [
+          "DOEN",
+          "VIR",
+          "MY",
+          "'N",
+          "GUNSIE",
+          "VOOR",
+          "JY",
+          "GAAN"
+        ],
+        [
+          "GOOI",
+          "VIR",
+          "MY",
+          "'N",
+          "KLIPPIE"
+        ],
+        [
+          "'N",
+          "KLIPPIE",
+          "IN",
+          "DIE",
+          "OSEAAN"
+        ],
+        [
+          "WIE",
+          "SAL",
+          "OOIT",
+          "DIE",
+          "LIEFDE",
+          "KAN",
+          "VERSTAAN?"
+        ],
+        [
+          "NADER",
+          "AS",
+          "'N",
+          "HARTKLOP,",
+          "VERDER",
+          "AS",
+          "DIE",
+          "MAAN"
+        ],
+        [
+          "DAAR",
+          "IS",
+          "'N",
+          "TYD",
+          "VAN",
+          "KOM,",
+          "EN",
+          "'N",
+          "TYD",
+          "VAN",
+          "GAAN"
+        ],
+        [
+          "DIT",
+          "HET",
+          "EK",
+          "GELEES",
+          "MAAR"
+        ],
+        [
+          "HOE",
+          "SAL",
+          "EK",
+          "DIT",
+          "OOIT",
+          "VERSTAAN?"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "EN",
+          "KYK",
+          "HOE",
+          "SAK",
+          "DIE",
+          "SEKELMAAN"
+        ],
+        [
+          "IN",
+          "DIE",
+          "STILLE",
+          "OSEAAN"
+        ],
+        [
+          "STILLE",
+          "WATERS",
+          "DIEPE",
+          "GROND"
+        ],
+        [
+          "ONDER",
+          "DRAAI",
+          "DIE",
+          "DUIWEL"
+        ],
+        [
+          "ONDER",
+          "DRAAI",
+          "DIE",
+          "DUIWEL",
+          "ROND"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "MISKIEN",
+          "IS",
+          "LIEFDE",
+          "NET",
+          "'N",
+          "FANTASIE"
+        ],
+        [
+          "DIS",
+          "NIE",
+          "ALLES",
+          "MAANSKYN",
+          "EN",
+          "ROSE",
+          "NIE"
+        ],
+        [
+          "JY",
+          "WAS",
+          "VIR",
+          "'N",
+          "RUKKIE",
+          "AAN",
+          "MY",
+          "SY"
+        ],
+        [
+          "WAS",
+          "JY",
+          "NET",
+          "'N",
+          "BIETJIE"
+        ],
+        [
+          "NET",
+          "'N",
+          "BIETJIE",
+          "LIEF",
+          "VIR",
+          "MY"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "MISKIEN",
+          "IS",
+          "DAAR",
+          "'N",
+          "PLEK",
+          "VIR",
+          "ONS",
+          "TWEE",
+          "SAAM"
+        ],
+        [
+          "ANDERKANT",
+          "DIE",
+          "BERGE",
+          "VAN",
+          "DIE",
+          "MAAN"
+        ],
+        [
+          "EN",
+          "AS",
+          "DIE",
+          "MAAN",
+          "WEER",
+          "OPKOM",
+          "SAL",
+          "EK",
+          "ONTHOU"
+        ],
+        [
+          "EK",
+          "WAS",
+          "VIR",
+          "'N",
+          "RUKKIE"
+        ],
+        [
+          "OOK",
+          "'N",
+          "BIETJIE",
+          "LIEF",
+          "VIR",
+          "JOU"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EN",
+          "AS",
+          "DIE",
+          "MAAN",
+          "WEER",
+          "OPKOM",
+          "SAL",
+          "EK",
+          "ONTHOU"
+        ],
+        [
+          "EK",
+          "WAS",
+          "VIR",
+          "'N",
+          "RUKKIE"
+        ],
+        [
+          "OOK",
+          "'N",
+          "BIETJIE",
+          "LIEF",
+          "VIR",
+          "JOU"
+        ]
+      ]
+    }
+  ]
+}

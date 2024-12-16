@@ -1,0 +1,97 @@
+{
+  "source_file": "../../files/AsDieOproepKomVirDiens.txt",
+  "title": "AS DIE OPROEP KOM VIR DIENS",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          ":Wysie:Erika"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "As",
+          "die",
+          "oproep",
+          "kom",
+          "vir",
+          "diens",
+          "aan",
+          "eie",
+          "land,"
+        ],
+        [
+          "Voortmasjeer,",
+          "Voortrekker,",
+          "Voortmasjeer!"
+        ],
+        [
+          "Staan",
+          "jou",
+          "man",
+          "en",
+          "doen",
+          "jou",
+          "plig",
+          "met",
+          "vaste",
+          "hand;"
+        ],
+        [
+          "Voortmasjeer,",
+          "Voortrekker,",
+          "Voortmasjeer!"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Bring",
+          "die",
+          "offer",
+          "wat",
+          "jou",
+          "land",
+          "jou",
+          "vra,"
+        ],
+        [
+          "Trekkerjeug",
+          "wat",
+          "vryheidsvaandel",
+          "dra"
+        ],
+        [
+          "Laat",
+          "ons",
+          "saam",
+          "ons",
+          "volk",
+          "se",
+          "naam",
+          "in",
+          "ere",
+          "hou."
+        ],
+        [
+          "Voortmasjeer,",
+          "Voortrekker,",
+          "Voortmasjeer!"
+        ]
+      ]
+    }
+  ]
+}

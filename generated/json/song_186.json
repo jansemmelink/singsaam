@@ -1,0 +1,99 @@
+{
+  "source_file": "../../files/NaBuite.txt",
+  "title": "NA BUITE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "berge,",
+          "blomme,",
+          "bome"
+        ],
+        [
+          "Die",
+          "helder",
+          "waterstrome"
+        ],
+        [
+          "Hul",
+          "wink",
+          "ons",
+          "van",
+          "daar",
+          "ver"
+        ],
+        [
+          "Hul",
+          "wink",
+          "ons",
+          "van",
+          "daar",
+          "ver"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ons",
+          "klim",
+          "oor",
+          "berg",
+          "en",
+          "rante"
+        ],
+        [
+          "Ons",
+          "sing",
+          "en",
+          "klap",
+          "die",
+          "hande"
+        ],
+        [
+          "Van",
+          "pure",
+          "lewenslus"
+        ],
+        [
+          "Van",
+          "pure",
+          "lewenslus"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tra-li-tra-la,",
+          "tra-li-tra-la"
+        ],
+        [
+          "Van",
+          "pure",
+          "lewenslus"
+        ],
+        [
+          "Tra-li-tra-la,",
+          "tra-li-tra-la"
+        ],
+        [
+          "Van",
+          "pure",
+          "lewenslus"
+        ]
+      ]
+    }
+  ]
+}

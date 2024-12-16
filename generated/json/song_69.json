@@ -1,0 +1,226 @@
+{
+  "source_file": "../../files/DieSweepHetGeklap.txt",
+  "title": "DIE SWEEP HET GEKLAP",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "sweep",
+          "het",
+          "geklap",
+          "en",
+          "die",
+          "wawiele",
+          "draai"
+        ],
+        [
+          "Al",
+          "agter",
+          "die",
+          "rooispan",
+          "aan."
+        ],
+        [
+          "Ons",
+          "harte",
+          "is",
+          "swaar,",
+          "die",
+          "skeiding",
+          "is",
+          "daar"
+        ],
+        [
+          "Van",
+          "die",
+          "plaas",
+          "waar",
+          "ons",
+          "tuiste",
+          "staan."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Trek",
+          "oor",
+          "die",
+          "vlakte",
+          "en",
+          "trek",
+          "oor",
+          "die",
+          "rand"
+        ],
+        [
+          "Stadig",
+          "nou!",
+          "Briek",
+          "aandraai!"
+        ],
+        [
+          "Hotagter!",
+          "Haaragter!",
+          "Vat",
+          "nou",
+          "die",
+          "wa!"
+        ],
+        [
+          "Geluk",
+          "lê",
+          "net",
+          "om",
+          "die",
+          "draai!"
+        ],
+        [
+          "Uitspan",
+          "vanaand,",
+          "Uitspan",
+          "vanaand,"
+        ],
+        [
+          "Uitspan",
+          "op",
+          "Mooifontein!"
+        ],
+        [
+          "Hotagter!",
+          "Haaragter!",
+          "Vat",
+          "nou",
+          "die",
+          "wa!"
+        ],
+        [
+          "Geluk",
+          "lê",
+          "net",
+          "om",
+          "die",
+          "draai!"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Met",
+          "jou",
+          "aan",
+          "my",
+          "sy,",
+          "O",
+          "liefste",
+          "van",
+          "my,"
+        ],
+        [
+          "Dan",
+          "vrees",
+          "ek",
+          "geen",
+          "gevaar."
+        ],
+        [
+          "Die",
+          "wildernis",
+          "in",
+          "om",
+          "die",
+          "vryheid",
+          "te",
+          "win,"
+        ],
+        [
+          "Daar",
+          "word",
+          "ons",
+          "drome",
+          "waar."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Trek",
+          "oor",
+          "die",
+          "vlakte",
+          "en",
+          "trek",
+          "oor",
+          "die",
+          "rand"
+        ],
+        [
+          "Stadig",
+          "nou!",
+          "Briek",
+          "aandraai!"
+        ],
+        [
+          "Hotagter!",
+          "Haaragter!",
+          "Vat",
+          "nou",
+          "die",
+          "wa!"
+        ],
+        [
+          "Geluk",
+          "lê",
+          "net",
+          "om",
+          "die",
+          "draai!"
+        ],
+        [
+          "Uitspan",
+          "vanaand,",
+          "Uitspan",
+          "vanaand,"
+        ],
+        [
+          "Uitspan",
+          "op",
+          "Mooifontein!"
+        ],
+        [
+          "Hotagter!",
+          "Haaragter!",
+          "Vat",
+          "nou",
+          "die",
+          "wa!"
+        ],
+        [
+          "Geluk",
+          "lê",
+          "net",
+          "om",
+          "die",
+          "draai!"
+        ]
+      ]
+    }
+  ]
+}

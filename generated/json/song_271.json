@@ -1,0 +1,210 @@
+{
+  "source_file": "../../files/TussenJouEnMy.txt",
+  "title": "TUSSEN JOU EN MY",
+  "artists": [
+    "Dozi"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tussen",
+          "jou",
+          "en",
+          "my,",
+          "Lê",
+          "daar",
+          "'n",
+          "berg"
+        ],
+        [
+          "Lê",
+          "daar",
+          "'n",
+          "berg,Tafelberg"
+        ],
+        [
+          "Tussen",
+          "jou",
+          "en",
+          "my,Lê",
+          "daar",
+          "'n",
+          "berg"
+        ],
+        [
+          "Lê",
+          "daar",
+          "'n",
+          "berg,Tafelberg"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "rawe",
+          "op",
+          "die",
+          "telefoondrade"
+        ],
+        [
+          "Luister",
+          "na",
+          "die",
+          "gesprek"
+        ],
+        [
+          "en",
+          "vlug",
+          "op",
+          "die",
+          "plek,"
+        ],
+        [
+          "want",
+          "tussen",
+          "jou",
+          "en",
+          "my",
+          "lê",
+          "daar",
+          "'n",
+          "berg"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tussen",
+          "jou",
+          "en",
+          "my,",
+          "Lê",
+          "daar",
+          "'n",
+          "berg"
+        ],
+        [
+          "Lê",
+          "daar",
+          "'n",
+          "berg,",
+          "Tafelberg"
+        ],
+        [
+          "Tussen",
+          "jou",
+          "en",
+          "my,Lê",
+          "daar",
+          "'n",
+          "berg"
+        ],
+        [
+          "Lê",
+          "daar",
+          "'n",
+          "berg,Tafelberg"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Outeniekwaberg",
+          "se",
+          "baard",
+          "is",
+          "nat"
+        ],
+        [
+          "Teen",
+          "sy",
+          "wang",
+          "loop",
+          "daar",
+          "'n",
+          "traan"
+        ],
+        [
+          "'n",
+          "Stroompie",
+          "oor",
+          "die",
+          "pad,"
+        ],
+        [
+          "maar",
+          "tussen",
+          "jou",
+          "en",
+          "my",
+          "lê",
+          "daar",
+          "'n",
+          "berg(2x)"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "So",
+          "sleep",
+          "ek",
+          "voort",
+          "deur",
+          "Meiringspoort"
+        ],
+        [
+          "Sonder",
+          "jou",
+          "en",
+          "sonder",
+          "'n",
+          "woord,"
+        ],
+        [
+          "want",
+          "tussen",
+          "jou",
+          "en",
+          "my",
+          "lê",
+          "daar",
+          "'n",
+          "berg"
+        ],
+        [
+          "ja,",
+          "tussen",
+          "jou",
+          "en",
+          "my",
+          "lê",
+          "daar",
+          "'n",
+          "berg"
+        ]
+      ]
+    }
+  ]
+}

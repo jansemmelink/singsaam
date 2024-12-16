@@ -1,0 +1,128 @@
+{
+  "source_file": "../../files/VrystaatSeVolkslied.txt",
+  "title": "VRYSTAATSE VOLKSLIED",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Heft,",
+          "Burgers,",
+          "'t",
+          "lied",
+          "der",
+          "vrijheid",
+          "aan"
+        ],
+        [
+          "en",
+          "zingt",
+          "ons",
+          "eigen",
+          "volksbestaan!"
+        ],
+        [
+          "Van",
+          "vreemde",
+          "banden",
+          "vrij,"
+        ],
+        [
+          "bekleedt",
+          "ons",
+          "klein",
+          "gemenebest,"
+        ],
+        [
+          "op",
+          "orde,",
+          "wet",
+          "en",
+          "recht",
+          "gevest,"
+        ],
+        [
+          "rang",
+          "in",
+          "der",
+          "Staten",
+          "rij,"
+        ],
+        [
+          "rang",
+          "in",
+          "der",
+          "Staten",
+          "rij."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Al",
+          "heeft",
+          "ons",
+          "land",
+          "een",
+          "klein",
+          "begin,"
+        ],
+        [
+          "wij",
+          "gaan",
+          "met",
+          "moed",
+          "de",
+          "toekomst",
+          "in,"
+        ],
+        [
+          "het",
+          "oog",
+          "op",
+          "God",
+          "gericht,"
+        ],
+        [
+          "Die",
+          "niet",
+          "beschaamt",
+          "wie",
+          "op",
+          "Hem",
+          "bouwt,"
+        ],
+        [
+          "op",
+          "Hem",
+          "als",
+          "op",
+          "een",
+          "burcht",
+          "vertrouwt,"
+        ],
+        [
+          "Die",
+          "voor",
+          "geen",
+          "stormen",
+          "zwicht,"
+        ],
+        [
+          "Die",
+          "voor",
+          "geen",
+          "stormen",
+          "zwicht."
+        ]
+      ]
+    }
+  ]
+}

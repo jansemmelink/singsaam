@@ -1,0 +1,249 @@
+{
+  "source_file": "../../files/SoosBloed.txt",
+  "title": "SOOS BLOED",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Theuns",
+          "Jordaan"
+        ],
+        [
+          "Soos",
+          "bloed,",
+          "so",
+          "is",
+          "jy",
+          "vir",
+          "my,"
+        ],
+        [
+          "Soos",
+          "my,",
+          "so",
+          "ken",
+          "jy",
+          "vir",
+          "my,"
+        ],
+        [
+          "Soos",
+          "asem,",
+          "vloei",
+          "jy",
+          "dwarsdeur",
+          "my,"
+        ],
+        [
+          "Soos",
+          "tyd,",
+          "so",
+          "vlieg",
+          "als",
+          "verby"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek",
+          "vra",
+          "jou",
+          "bly,",
+          "by",
+          "my,"
+        ],
+        [
+          "Tot",
+          "die",
+          "paaie",
+          "voor",
+          "my",
+          "opraak"
+        ],
+        [
+          "Tot",
+          "die",
+          "wolke",
+          "bo",
+          "my",
+          "leegraak",
+          "vir",
+          "my"
+        ],
+        [
+          "Ek",
+          "vra",
+          "jou",
+          "bly,",
+          "by",
+          "my"
+        ],
+        [
+          "Tot",
+          "die",
+          "spore",
+          "voor",
+          "my",
+          "dof",
+          "raak"
+        ],
+        [
+          "En",
+          "die",
+          "wolke",
+          "bo",
+          "my",
+          "leegraak",
+          "vir",
+          "my"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Soos",
+          "bloed,",
+          "binne",
+          "my",
+          "is",
+          "jy"
+        ],
+        [
+          "Jou",
+          "groet,",
+          "eggo",
+          "steeds",
+          "in",
+          "my"
+        ],
+        [
+          "Oseane,",
+          "oor",
+          "tot",
+          "jy",
+          "my",
+          "kry"
+        ],
+        [
+          "Vulkane,",
+          "brand",
+          "hier",
+          "binne",
+          "my"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "In",
+          "reën,",
+          "is",
+          "jy",
+          "rondom",
+          "my"
+        ],
+        [
+          "In",
+          "trane,",
+          "vloei",
+          "jy",
+          "af",
+          "voor",
+          "my"
+        ],
+        [
+          "Riviere,",
+          "storm",
+          "jy",
+          "deur",
+          "my"
+        ],
+        [
+          "Papiere,",
+          "is",
+          "te",
+          "min",
+          "vir",
+          "my"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek",
+          "vra",
+          "jou",
+          "bly,",
+          "by",
+          "my,"
+        ],
+        [
+          "Tot",
+          "die",
+          "paaie",
+          "voor",
+          "my",
+          "opraak"
+        ],
+        [
+          "Tot",
+          "die",
+          "wolke",
+          "bo",
+          "my",
+          "leegraak",
+          "vir",
+          "my"
+        ],
+        [
+          "Ek",
+          "vra",
+          "jou",
+          "bly,",
+          "by",
+          "my"
+        ],
+        [
+          "Tot",
+          "die",
+          "spore",
+          "voor",
+          "my",
+          "dof",
+          "raak"
+        ],
+        [
+          "En",
+          "die",
+          "wolke",
+          "bo",
+          "my",
+          "leegraak",
+          "vir",
+          "my"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "source_file": "../../files/StraatTroebadoer.txt",
+  "title": "STRAATTROEBADOERA",
+  "artists": [
+    "Laurika Rauch"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "TUSSEN",
+          "DIE",
+          "DONKER",
+          "GEHEIME",
+          "VAN",
+          "DIE",
+          "NAG"
+        ],
+        [
+          "SPEEL",
+          "DIE",
+          "STRAATTOEBADOERE"
+        ],
+        [
+          "KONKA-CONCERTO'S",
+          "VIR",
+          "DIE",
+          "SUIDERKRUIS"
+        ],
+        [
+          "MELKWEG",
+          "EN",
+          "MAAN"
+        ],
+        [
+          "HARTSEER",
+          "KONSERTINAS",
+          "VIR",
+          "DIE",
+          "GLOEIKOOL-BALLERINAS"
+        ],
+        [
+          "VAN",
+          "DIE",
+          "STRAATTROEBADOERE"
+        ],
+        [
+          "EN",
+          "DIE",
+          "PRINSE",
+          "VAN",
+          "DIE",
+          "BOENDOE"
+        ],
+        [
+          "DIE",
+          "GRAMMADOELABOENDOE",
+          "VERLANG"
+        ],
+        [
+          "EN",
+          "DIE",
+          "VURE",
+          "IN",
+          "HUL",
+          "OE",
+          "WYS",
+          "WAAR",
+          "DIE",
+          "DIXIELAND",
+          "PARADYS",
+          "HANG"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "STAP",
+          "SAAM",
+          "DEUR",
+          "DIAGONAALSTRAAT"
+        ],
+        [
+          "STAP",
+          "SAAM",
+          "NA",
+          "WAAR",
+          "DIE",
+          "NAGWAGTE",
+          "PRAAT"
+        ],
+        [
+          "STAP",
+          "SAAM",
+          "WAAR",
+          "DIE",
+          "STRAATTROEBADOERE"
+        ],
+        [
+          "OOR",
+          "VERLANGE",
+          "IN",
+          "HUL",
+          "HART",
+          "SIT",
+          "EN",
+          "PRAAT"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "DIE",
+          "TWINTIGSTE",
+          "EEU",
+          "AGTERLAAT",
+          "(TWEEDE",
+          "KEER)"
+        ]
+      ]
+    }
+  ]
+}

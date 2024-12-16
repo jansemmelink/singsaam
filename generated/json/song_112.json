@@ -1,0 +1,125 @@
+{
+  "source_file": "../../files/HuisieInDieBerge.txt",
+  "title": "HUISIE IN DIE BERGE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "'n",
+          "Huisie",
+          "so",
+          "klein",
+          "en",
+          "alles",
+          "so",
+          "rein"
+        ],
+        [
+          "Is",
+          "al",
+          "wat",
+          "ek",
+          "verlang."
+        ],
+        [
+          "Waar",
+          "soet",
+          "windjies",
+          "fluister"
+        ],
+        [
+          "En",
+          "ek",
+          "altyd",
+          "luister"
+        ],
+        [
+          "Na",
+          "die",
+          "voëltjies",
+          "se",
+          "gesang."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dierbaar",
+          "ou",
+          "huis",
+          "in",
+          "die",
+          "berge"
+        ],
+        [
+          "Daar",
+          "in",
+          "die",
+          "ou",
+          "Transvaal"
+        ],
+        [
+          "Dierbaar",
+          "ou",
+          "huis",
+          "in",
+          "die",
+          "berge"
+        ],
+        [
+          "Daar",
+          "wil",
+          "ek",
+          "woon",
+          "en",
+          "dwaal."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Huis",
+          "van",
+          "vriendskap",
+          "en",
+          "vreugde"
+        ],
+        [
+          "Hier",
+          "besing",
+          "in",
+          "my",
+          "moedertaal."
+        ],
+        [
+          "Dierbaar",
+          "ou",
+          "huis",
+          "in",
+          "die",
+          "berge"
+        ],
+        [
+          "Daar",
+          "wil",
+          "ek",
+          "woon",
+          "en",
+          "dwaal."
+        ]
+      ]
+    }
+  ]
+}

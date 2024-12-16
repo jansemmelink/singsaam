@@ -1,0 +1,91 @@
+{
+  "source_file": "../../files/DisJulleWatDieWind.txt",
+  "title": "DIS JULLE WAT DIE WIND",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "julle",
+          "wat",
+          "die",
+          "wind,",
+          "dis",
+          "julle",
+          "wat",
+          "die",
+          "wind,"
+        ],
+        [
+          "Dis",
+          "julle",
+          "wat",
+          "die",
+          "wind",
+          "laat",
+          "waai."
+        ],
+        [
+          "Dis",
+          "julle",
+          "wat",
+          "die",
+          "wind,",
+          "dis",
+          "julle",
+          "wat",
+          "die",
+          "wind,"
+        ],
+        [
+          "Dis",
+          "julle",
+          "wat",
+          "die",
+          "wind",
+          "laat",
+          "waai."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "'n",
+          "onderbaadjie,",
+          "dis",
+          "'n",
+          "bo-baadjie,"
+        ],
+        [
+          "Dis",
+          "'n",
+          "onderstebo",
+          "baadjie."
+        ],
+        [
+          "Dis",
+          "'n",
+          "onderbaadjie,",
+          "dis",
+          "'n",
+          "bo-baadjie,"
+        ],
+        [
+          "Dis",
+          "'n",
+          "onderstebo",
+          "baadjie"
+        ]
+      ]
+    }
+  ]
+}

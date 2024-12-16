@@ -1,0 +1,87 @@
+{
+  "source_file": "../../files/KykDisSeptemberWeer.txt",
+  "title": "KYK DIS SEPTEMBER WEER",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kyk",
+          "dis",
+          "September",
+          "weer"
+        ],
+        [
+          "Lente",
+          "is",
+          "in",
+          "ons",
+          "land"
+        ],
+        [
+          "Kom",
+          "vier",
+          "met",
+          "ons",
+          "'n",
+          "keer"
+        ],
+        [
+          "Feesvreugde",
+          "by",
+          "die",
+          "strand."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Laat",
+          "alle",
+          "boeke",
+          "tuis"
+        ],
+        [
+          "Laat",
+          "sorge",
+          "agterbly"
+        ],
+        [
+          "Jeug",
+          "en",
+          "lentetyd",
+          "gaan",
+          "snel",
+          "verby"
+        ],
+        [
+          "Ja,",
+          "hulle",
+          "gaan",
+          "verby"
+        ],
+        [
+          "Jeug",
+          "en",
+          "lentetyd",
+          "gaan",
+          "snel",
+          "verby"
+        ],
+        [
+          "Ja,",
+          "hulle",
+          "gaan",
+          "verby."
+        ]
+      ]
+    }
+  ]
+}

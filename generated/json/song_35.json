@@ -1,0 +1,95 @@
+{
+  "source_file": "../../files/Bokkie.txt",
+  "title": "BOKKIE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "trane",
+          "die",
+          "rol",
+          "oor",
+          "jou,",
+          "Bokkie,"
+        ],
+        [
+          "Die",
+          "trane",
+          "die",
+          "rol",
+          "oor",
+          "jou,",
+          "Bokkie."
+        ],
+        [
+          "Daar",
+          "waar",
+          "die",
+          "son",
+          "en",
+          "die",
+          "maan",
+          "ondergaan,"
+        ],
+        [
+          "Bokkie",
+          "ons",
+          "moet",
+          "huis",
+          "toe",
+          "gaan."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Nee,",
+          "nee,",
+          "nee,",
+          "my",
+          "Dolla,",
+          "nee!"
+        ],
+        [
+          "Nee,",
+          "my",
+          "Dolla,",
+          "nee!"
+        ],
+        [
+          "Nee,",
+          "my",
+          "Dolla,",
+          "nee!"
+        ],
+        [
+          "Nee,",
+          "nee,",
+          "nee,",
+          "my",
+          "Dolla,",
+          "nee!"
+        ],
+        [
+          "Ek",
+          "lol",
+          "nie",
+          "met",
+          "'n",
+          "loskop",
+          "Dolla",
+          "nie"
+        ]
+      ]
+    }
+  ]
+}

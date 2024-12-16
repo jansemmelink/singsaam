@@ -1,0 +1,343 @@
+{
+  "source_file": "../../files/StoksielAlleenOpNStaterdagaand.txt",
+  "title": "STOKSIELALLEEN SATERDAGAAND",
+  "artists": [
+    "David Kramer"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EK",
+          "VRA",
+          "VIR",
+          "TILLIE,",
+          "MAAR",
+          "TILLIE",
+          "SÊ",
+          "SY",
+          "WILLIE"
+        ],
+        [
+          "MISKIEN",
+          "WIL",
+          "HAAR",
+          "SUSSIE,",
+          "MAAR",
+          "HAAR",
+          "SUSSIE",
+          "ISSIE",
+          "LUSSIE"
+        ],
+        [
+          "TOE",
+          "DINK",
+          "EK",
+          "AAN",
+          "VOSSIE,",
+          "MAAR",
+          "VOSSIE'S",
+          "OOKIE",
+          "LOSSIE"
+        ],
+        [
+          "TOE",
+          "SMEEK",
+          "EK",
+          "VIR",
+          "HANNIE,",
+          "MAAR",
+          "SY",
+          "KANNIE",
+          "HANNIE"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EK",
+          "IS",
+          "STOKSIEL",
+          "ALLEEN,",
+          "STOKSIEL",
+          "ALLEEN,"
+        ],
+        [
+          "STOKSIEL",
+          "ALLEEN",
+          "OP",
+          "'N",
+          "SATERDAGAAND"
+        ],
+        [
+          "HIER",
+          "SIT",
+          "EK",
+          "STOKSIEL",
+          "ALLEEN,",
+          "STOKSIEL",
+          "ALLEEN,"
+        ],
+        [
+          "STOKSIEL",
+          "ALLEEN",
+          "OP",
+          "'N",
+          "SATERDAGAAND"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EK",
+          "GAAN",
+          "NA",
+          "OU",
+          "FANIE,",
+          "MAAR",
+          "FANIE",
+          "HY'S",
+          "NIE",
+          "DAAR",
+          "NIE"
+        ],
+        [
+          "TOE",
+          "VRA",
+          "EK",
+          "VIR",
+          "MANIE,",
+          "MAAR",
+          "MANIE",
+          "WILLIE",
+          "GAAN",
+          "NIE"
+        ],
+        [
+          "EK",
+          "BEL",
+          "TOE",
+          "VIR",
+          "OU",
+          "THYSIE,",
+          "MAAR",
+          "THYSIE",
+          "HET",
+          "'N",
+          "MEISIE"
+        ],
+        [
+          "TOE",
+          "LOOP",
+          "EK",
+          "NA",
+          "GYSIE,",
+          "MAAR",
+          "GYSIE",
+          "HY'S",
+          "NIE",
+          "TUIS",
+          "NIE"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EK",
+          "IS",
+          "STOKSIEL",
+          "ALLEEN,",
+          "STOKSIEL",
+          "ALLEEN"
+        ],
+        [
+          "STOKSIEL",
+          "ALLEEN",
+          "OP",
+          "'N",
+          "SATERDAGAAND"
+        ],
+        [
+          "HIER",
+          "SIT",
+          "EK",
+          "STOKSIEL",
+          "ALLEEN,",
+          "STOKSIEL",
+          "ALLEEN,"
+        ],
+        [
+          "STOKSIEL",
+          "ALLEEN",
+          "OP",
+          "'N",
+          "SATERDAGAAND"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EN",
+          "EK",
+          "WIL",
+          "DANS,",
+          "DANS,",
+          "DANS,",
+          "KAN",
+          "'N",
+          "MAN",
+          "DAN",
+          "NIE"
+        ],
+        [
+          "OOH",
+          "DANS,",
+          "DANS,",
+          "DANS,",
+          "TOT",
+          "MY",
+          "HEMP",
+          "UIT",
+          "HANG"
+        ],
+        [
+          "EN",
+          "EK",
+          "WIL",
+          "DANS,",
+          "DANS,",
+          "DANS,",
+          "OP",
+          "'N",
+          "SATERDAGAAND",
+          "OOH"
+        ],
+        [
+          "MORE",
+          "STAAN",
+          "EK",
+          "VROEG",
+          "OP",
+          "OM",
+          "VIS",
+          "TE",
+          "GAAN",
+          "VANG"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EK",
+          "NOOI",
+          "TOE",
+          "VIR",
+          "RHETA,",
+          "MAAR",
+          "RHETA",
+          "SÊ",
+          "VERGEET",
+          "MAAR"
+        ],
+        [
+          "EN",
+          "WAT",
+          "NOU",
+          "VAN",
+          "TANT",
+          "HESSIE",
+          "MAAR",
+          "DIS",
+          "BUITE",
+          "DIE",
+          "KWESSIE"
+        ],
+        [
+          "TOE",
+          "HOOR",
+          "EK",
+          "BY",
+          "MONKEY,",
+          "MONKEY",
+          "SO",
+          "NEE",
+          "DANKIE"
+        ],
+        [
+          "NOU",
+          "WAG",
+          "EK",
+          "VIR",
+          "KIETIE,",
+          "WANT",
+          "KIETIE",
+          "SO",
+          "SY",
+          "WEET",
+          "NIE"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "EK",
+          "IS",
+          "STOKSIEL",
+          "ALLEEN,",
+          "STOKSIEL",
+          "ALLEEN,"
+        ],
+        [
+          "STOKSIEL",
+          "ALLEEN",
+          "OP",
+          "'N",
+          "SATERDAGAAND"
+        ],
+        [
+          "HIER",
+          "SIT",
+          "EK",
+          "STOKSIEL",
+          "ALLEEN,",
+          "STOKSIEL",
+          "ALLEEN,"
+        ],
+        [
+          "STOKSIEL",
+          "ALLEEN",
+          "OP",
+          "'N",
+          "SATERDAGAAND"
+        ]
+      ]
+    }
+  ]
+}

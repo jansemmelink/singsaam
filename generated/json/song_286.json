@@ -1,0 +1,229 @@
+{
+  "source_file": "../../files/VreemdeStad.txt",
+  "title": "VREEMDE STAD",
+  "artists": [
+    "Theuns Jordaan"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Donker",
+          "word",
+          "die",
+          "lug",
+          "se",
+          "blou"
+        ],
+        [
+          "Ek",
+          "sit",
+          "hier",
+          "in",
+          "my",
+          "flat",
+          "alleen"
+        ],
+        [
+          "Die",
+          "lug",
+          "is",
+          "vars,",
+          "die",
+          "reën",
+          "is",
+          "stil"
+        ],
+        [
+          "Die",
+          "aand",
+          "se",
+          "woel",
+          "het",
+          "skaars",
+          "begin"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek's",
+          "vreemdeling",
+          "in",
+          "'n",
+          "vreemde",
+          "stad"
+        ],
+        [
+          "Niks",
+          "branders",
+          "oorkant",
+          "hierdie",
+          "pad"
+        ],
+        [
+          "My",
+          "deur",
+          "staan",
+          "heeldag",
+          "wawyd",
+          "oop"
+        ],
+        [
+          "Maar",
+          "nog",
+          "net",
+          "stilte",
+          "het",
+          "hier",
+          "ingeloop"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Jou",
+          "trane",
+          "oor",
+          "die",
+          "telefoon"
+        ],
+        [
+          "Ek",
+          "weet",
+          "dis",
+          "my",
+          "verdiende",
+          "loon"
+        ],
+        [
+          "My",
+          "grootste",
+          "fout,",
+          "ek",
+          "word",
+          "ook",
+          "oud"
+        ],
+        [
+          "Het",
+          "jou",
+          "laat",
+          "agterbly,",
+          "om",
+          "te",
+          "wag",
+          "vir",
+          "my"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "As",
+          "alles",
+          "om",
+          "jou",
+          "wegraak"
+        ],
+        [
+          "En",
+          "die",
+          "wêreld",
+          "jou",
+          "maar",
+          "min",
+          "traak"
+        ],
+        [
+          "As",
+          "die",
+          "mure",
+          "om",
+          "jou",
+          "begin",
+          "kraak"
+        ],
+        [
+          "Die",
+          "gemmerbrandewyn",
+          "min",
+          "raak"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tussen",
+          "stegies",
+          "en",
+          "geboue"
+        ],
+        [
+          "In",
+          "Burnettstraat",
+          "se",
+          "oggendkoue"
+        ],
+        [
+          "Word",
+          "die",
+          "wedloop",
+          "tot",
+          "stop",
+          "gedwing"
+        ],
+        [
+          "Dan",
+          "kom",
+          "die",
+          "stilte",
+          "wat",
+          "jou",
+          "huistoe",
+          "wil",
+          "bring"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source_file": "../../files/VanaandGaanDieVolkiesKoringSny.txt",
+  "title": "VANAAND GAAN DIE VOLKIES",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "KORING",
+          "SNY"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Vanaand",
+          "gaan",
+          "die",
+          "volkies"
+        ],
+        [
+          "koring",
+          "sny,",
+          "koring",
+          "sny."
+        ],
+        [
+          "Ja,",
+          "vanaand",
+          "gaan",
+          "die",
+          "volkies"
+        ],
+        [
+          "koring",
+          "sny,",
+          "koring",
+          "sny."
+        ],
+        [
+          "My",
+          "geliefde",
+          "hang",
+          "aan",
+          "die",
+          "bos"
+        ],
+        [
+          "My",
+          "geliefde",
+          "hang",
+          "aan",
+          "die",
+          "bos"
+        ],
+        [
+          "My",
+          "geliefde",
+          "hang",
+          "aan",
+          "die",
+          "wag-'n-bietjie-bos."
+        ]
+      ]
+    }
+  ]
+}

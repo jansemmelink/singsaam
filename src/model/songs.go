@@ -18,13 +18,17 @@ type Song struct {
 	Title      string   `json:"title"`
 	Artists    []string `json:"artists"`
 	Verses     []Verse  `json:"verses"`
+
+	//runtime
+	MdFilename string `json:"-"`
 }
 
+// if Chorus without any lines, then
 type Verse struct {
-	Id        int    `json:"id"`
-	Chorus    bool   `json:"chorus"`
-	Interlude bool   `json:"interlude"`
-	Lines     []Line `json:"lines"`
+	Id     int    `json:"id"`
+	Chorus bool   `json:"chorus"`
+	Bridge bool   `json:"bridge"`
+	Lines  []Line `json:"lines"`
 }
 
 type Line []Word
@@ -129,8 +133,8 @@ func (song *Song) LoadTxtFile(fn string) error {
 			continue
 		}
 
-		if lineText == "Interlude:" {
-			currentVerse.Interlude = true
+		if lineText == "Brug:" {
+			currentVerse.Bridge = true
 			continue
 		}
 
@@ -167,3 +171,51 @@ const (
 	lineTypeEmpty
 	lineTypeLyrics
 )
+
+func (song Song) ExportMarkDown(fn string) error {
+	f, err := os.Create(fn)
+	if err != nil {
+		return errors.Wrapf(err, "failed to create mark down file %s", fn)
+	}
+	defer f.Close()
+
+	//title
+	fmt.Fprintf(f, "# %s\n", song.Title)
+
+	//artists (optional)
+	if len(song.Artists) > 0 {
+		for i, a := range song.Artists {
+			if i == 0 {
+				fmt.Fprintf(f, "## (")
+			} else {
+				fmt.Fprintf(f, ", ")
+			}
+			fmt.Fprint(f, a)
+		}
+		fmt.Fprint(f, ")\n")
+	}
+
+	//verses
+	for _, verse := range song.Verses {
+		fmt.Fprint(f, "\n") //blank line to separate from previous verse
+
+		//decorations
+		if verse.Chorus {
+			fmt.Fprint(f, "_Koor:_\n\n")
+		}
+		if verse.Bridge {
+			fmt.Fprint(f, "_Brug:_\n\n")
+		}
+		for _, line := range verse.Lines {
+			s := ""
+			for i, word := range line {
+				if i > 0 {
+					s += " "
+				}
+				s += word.Text
+			}
+			fmt.Fprintf(f, "%s\n\n", s)
+		}
+	}
+	return nil
+} //ExportMarkDown

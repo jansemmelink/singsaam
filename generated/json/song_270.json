@@ -1,0 +1,164 @@
+{
+  "source_file": "../../files/TroueTrekkersmaat.txt",
+  "title": "TROUE TREKKERSMAAT",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          ":Wysie:Liefste",
+          "Madelein"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Troue",
+          "Trekkersmaat,",
+          "Ons",
+          "ou",
+          "spanmaat,"
+        ],
+        [
+          "Jy",
+          "was",
+          "trou",
+          "aan",
+          "ons",
+          "span",
+          "deur",
+          "die",
+          "jare;"
+        ],
+        [
+          "Jy",
+          "was",
+          "trou",
+          "met",
+          "jou",
+          "doen",
+          "en",
+          "jou",
+          "late;"
+        ],
+        [
+          "Jy",
+          "was",
+          "trou",
+          "met",
+          "jou",
+          "woord",
+          "elke",
+          "dag."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Troue",
+          "Trekkersmaat,",
+          "Ons",
+          "sê",
+          "dankie,"
+        ],
+        [
+          "Vir",
+          "jou",
+          "kragte",
+          "wat",
+          "jy",
+          "ons",
+          "gegun",
+          "het;"
+        ],
+        [
+          "Vir",
+          "die",
+          "ure",
+          "wat",
+          "jy",
+          "ons",
+          "gegee",
+          "het;"
+        ],
+        [
+          "Vir",
+          "die",
+          "liefde",
+          "wat",
+          "jy",
+          "ons",
+          "kon",
+          "gee;"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Troue",
+          "Trekkersmaat,",
+          "Ons",
+          "ou",
+          "troue",
+          "maat,"
+        ],
+        [
+          "Dit",
+          "was",
+          "jy",
+          "wat",
+          "ons",
+          "rigting",
+          "bepaal",
+          "het;"
+        ],
+        [
+          "Dit",
+          "was",
+          "jy",
+          "wat",
+          "ons",
+          "leiding",
+          "gegee",
+          "het;"
+        ],
+        [
+          "Dit",
+          "was",
+          "jy",
+          "wat",
+          "ons",
+          "koers",
+          "vir",
+          "ons",
+          "dui."
+        ],
+        [
+          "Vir",
+          "die",
+          "liefde",
+          "wat",
+          "jy",
+          "vir",
+          "ons",
+          "gee."
+        ]
+      ]
+    }
+  ]
+}

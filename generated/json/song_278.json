@@ -1,0 +1,82 @@
+{
+  "source_file": "../../files/VatJouGoedEnTrek.txt",
+  "title": "VAT JOU GOED EN TREK",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Vat",
+          "jou",
+          "goed",
+          "en",
+          "trek,",
+          "Ferreira,"
+        ],
+        [
+          "Vat",
+          "jou",
+          "goed",
+          "en",
+          "trek."
+        ],
+        [
+          "Agter",
+          "die",
+          "bos",
+          "is",
+          "'n",
+          "klompie",
+          "perde,"
+        ],
+        [
+          "Jannie",
+          "met",
+          "die",
+          "hoepelbeen."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Swaar",
+          "dra,",
+          "al",
+          "aan",
+          "die",
+          "eenkant,"
+        ],
+        [
+          "Swaar",
+          "dra,",
+          "al",
+          "aan",
+          "die",
+          "eenkant,"
+        ],
+        [
+          "Swaar",
+          "dra,",
+          "al",
+          "aan",
+          "die",
+          "eenkant,"
+        ],
+        [
+          "Vat",
+          "jou",
+          "goed",
+          "en",
+          "trek."
+        ]
+      ]
+    }
+  ]
+}

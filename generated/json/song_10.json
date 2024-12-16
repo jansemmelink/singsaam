@@ -1,0 +1,469 @@
+{
+  "source_file": "../../files/Amakeia.txt",
+  "title": "AMAKEIA",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "In",
+          "die",
+          "skadu",
+          "van",
+          "die",
+          "berge,"
+        ],
+        [
+          "Bos-beskut",
+          "aan",
+          "alle",
+          "kant,"
+        ],
+        [
+          "Staan",
+          "alleen",
+          "die",
+          "hartbeeshuisie"
+        ],
+        [
+          "Op",
+          "die",
+          "grens",
+          "van",
+          "Xhosaland."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Saggies",
+          "neurie",
+          "Amakeia"
+        ],
+        [
+          "Op",
+          "die",
+          "wal",
+          "van",
+          "Kei-rivier"
+        ],
+        [
+          "Tot",
+          "hy",
+          "slaap,",
+          "die",
+          "tere",
+          "wiggie"
+        ],
+        [
+          "Van",
+          "die",
+          "blanke",
+          "pionier:"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "\"Stil",
+          "maar,",
+          "stil",
+          "maar,",
+          "stil,",
+          "Babani,"
+        ],
+        [
+          "Kyk",
+          "hoe",
+          "blink",
+          "die",
+          "awendster."
+        ],
+        [
+          "Niemand",
+          "sal",
+          "vir",
+          "kindjie",
+          "slaan",
+          "nie",
+          "-"
+        ],
+        [
+          "Stil",
+          "maar,",
+          "al",
+          "is",
+          "Mammie",
+          "ver.\""
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Amakeia",
+          "had",
+          "belowe"
+        ],
+        [
+          "Toe",
+          "haar",
+          "nonna",
+          "sterwend",
+          "was,"
+        ],
+        [
+          "Om",
+          "die",
+          "hulpelose",
+          "kindjie"
+        ],
+        [
+          "Tot",
+          "hy",
+          "groot",
+          "was,",
+          "op",
+          "te",
+          "pas."
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Liefd'ryk",
+          "sorg",
+          "sy",
+          "vir",
+          "die",
+          "wit",
+          "kind,"
+        ],
+        [
+          "Tot",
+          "vir",
+          "hom",
+          "die",
+          "lewenslig"
+        ],
+        [
+          "Straal",
+          "uit",
+          "aia",
+          "Amakeia's"
+        ],
+        [
+          "Vrind'lik",
+          "troue",
+          "swart",
+          "gesig."
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Onheilspellend",
+          "sien",
+          "sy",
+          "tekens,"
+        ],
+        [
+          "Oorlog",
+          "kom",
+          "daar",
+          "in",
+          "die",
+          "land:"
+        ],
+        [
+          "Snel",
+          "die",
+          "inval,",
+          "huis",
+          "en",
+          "hawe"
+        ],
+        [
+          "Uitgemoor",
+          "en",
+          "afgebrand."
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Selfvergetend,",
+          "doodveragtend,"
+        ],
+        [
+          "Met",
+          "die",
+          "wit",
+          "kind",
+          "op",
+          "haar",
+          "rug,"
+        ],
+        [
+          "Na",
+          "die",
+          "Amatola-berge"
+        ],
+        [
+          "Het",
+          "sy",
+          "ylings",
+          "heen",
+          "gevlug."
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "\"Stil",
+          "maar,",
+          "stil",
+          "maar,",
+          "pikanienie,"
+        ],
+        [
+          "Oor",
+          "die",
+          "bergtop",
+          "rys",
+          "die",
+          "maan."
+        ],
+        [
+          "Niemand",
+          "sal",
+          "vir",
+          "ons",
+          "hier",
+          "sien",
+          "nie:"
+        ],
+        [
+          "Môre",
+          "sal",
+          "ons",
+          "huis-toe",
+          "gaan.\""
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ag,",
+          "dat",
+          "oë",
+          "van",
+          "verspieders"
+        ],
+        [
+          "Ook",
+          "haar",
+          "skuilplek",
+          "moes",
+          "ontdek!"
+        ],
+        [
+          "\"Spaar",
+          "hom,",
+          "hy's",
+          "so",
+          "klein",
+          "nog,\"",
+          "smeek",
+          "sy"
+        ],
+        [
+          "Met",
+          "die",
+          "hande",
+          "uitgestrek."
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Woedend",
+          "tier",
+          "die",
+          "wilde",
+          "bende:"
+        ],
+        [
+          "\"Sterf",
+          "of",
+          "gee",
+          "die",
+          "wit",
+          "kind",
+          "hier!\""
+        ],
+        [
+          "\"Oor",
+          "my",
+          "lewelose",
+          "liggaam",
+          "...\""
+        ],
+        [
+          "Antwoord",
+          "Amakeia",
+          "fier."
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "\"My",
+          "belofte",
+          "aan",
+          "my",
+          "nonna",
+          "-"
+        ],
+        [
+          "Beste",
+          "wat",
+          "daar",
+          "ooit",
+          "nog",
+          "was"
+        ],
+        [
+          "Waar",
+          "hy",
+          "gaan",
+          "moet",
+          "Amakeia"
+        ],
+        [
+          "Saamgaan",
+          "om",
+          "hom",
+          "op",
+          "te",
+          "pas.\""
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "\"Is",
+          "jul",
+          "lewend",
+          "nie",
+          "te",
+          "skei",
+          "nie,"
+        ],
+        [
+          "Blyf",
+          "dan",
+          "in",
+          "die",
+          "dood",
+          "vereen",
+          "-"
+        ],
+        [
+          "Kort",
+          "proses",
+          "met",
+          "haar,",
+          "Maxoxsas,"
+        ],
+        [
+          "Laat",
+          "die",
+          "blink",
+          "asgaaie",
+          "reën!\""
+        ]
+      ]
+    },
+    {
+      "id": 12,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "In",
+          "die",
+          "Amatola-klowe"
+        ],
+        [
+          "Sing",
+          "nog",
+          "net",
+          "die",
+          "winterswind"
+        ],
+        [
+          "Deur",
+          "die",
+          "riete",
+          "in",
+          "die",
+          "maanskyn:"
+        ],
+        [
+          "\"Tula-tula",
+          "-",
+          "stil",
+          "my",
+          "kind.\""
+        ]
+      ]
+    }
+  ]
+}

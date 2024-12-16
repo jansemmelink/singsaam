@@ -1,0 +1,227 @@
+{
+  "source_file": "../../files/InDieWoestyn.txt",
+  "title": "IN DIE WOESTYN",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "die",
+          "son",
+          "wat",
+          "skyn"
+        ],
+        [
+          "In",
+          "die",
+          "dorre",
+          "woestyn"
+        ],
+        [
+          "Dis",
+          "die",
+          "wind",
+          "wat",
+          "waai"
+        ],
+        [
+          "En",
+          "die",
+          "son",
+          "wat",
+          "my",
+          "braai."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Geen",
+          "gras",
+          "is",
+          "te",
+          "vind"
+        ],
+        [
+          "Geen",
+          "water",
+          "om",
+          "te",
+          "drink"
+        ],
+        [
+          "En",
+          "ek",
+          "voel",
+          "so",
+          "verstoot"
+        ],
+        [
+          "Ag,",
+          "was",
+          "ek",
+          "maar",
+          "liewers",
+          "dood."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Dit",
+          "is",
+          "die",
+          "woestyn"
+        ],
+        [
+          "Daar",
+          "is",
+          "smart",
+          "en",
+          "pyn"
+        ],
+        [
+          "En",
+          "voëls",
+          "wat",
+          "wag"
+        ],
+        [
+          "Om",
+          "my",
+          "af",
+          "te",
+          "slag."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "al",
+          "lank",
+          "wat",
+          "ek",
+          "loop"
+        ],
+        [
+          "Want",
+          "my",
+          "perd",
+          "is",
+          "al",
+          "dood"
+        ],
+        [
+          "En",
+          "my",
+          "voete",
+          "is",
+          "seer"
+        ],
+        [
+          "En",
+          "ek",
+          "kan",
+          "ook",
+          "nie",
+          "meer."
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "die",
+          "son",
+          "wat",
+          "skyn"
+        ],
+        [
+          "In",
+          "die",
+          "dorre",
+          "woestyn"
+        ],
+        [
+          "En",
+          "die",
+          "aasvoëls",
+          "draai"
+        ],
+        [
+          "As",
+          "die",
+          "son",
+          "mt",
+          "braai."
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "lyding",
+          "is",
+          "groot"
+        ],
+        [
+          "Want",
+          "ek",
+          "kannie",
+          "meer",
+          "loop"
+        ],
+        [
+          "En",
+          "ek",
+          "voel",
+          "so",
+          "verstoot"
+        ],
+        [
+          "O,",
+          "was",
+          "ek",
+          "maar",
+          "liewers",
+          "dood."
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    }
+  ]
+}

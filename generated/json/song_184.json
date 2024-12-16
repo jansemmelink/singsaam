@@ -1,0 +1,206 @@
+{
+  "source_file": "../../files/MyMoreland.txt",
+  "title": "MY MôRELAND",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "geboorteland"
+        ],
+        [
+          "Hier",
+          "droom",
+          "ek",
+          "oor",
+          "'n",
+          "môre,"
+        ],
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "my",
+          "vaderland"
+        ],
+        [
+          "Die",
+          "toekoms",
+          "wink",
+          "vir",
+          "my."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "my",
+          "seerkryland"
+        ],
+        [
+          "Waar",
+          "mense",
+          "nie",
+          "wil",
+          "deel",
+          "nie,"
+        ],
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "my",
+          "swaarkryland"
+        ],
+        [
+          "As",
+          "niemand",
+          "wil",
+          "probeer",
+          "nie."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Daar",
+          "is",
+          "'n",
+          "sonskynland",
+          "in",
+          "Afrika"
+        ],
+        [
+          "Die",
+          "mooiste",
+          "land",
+          "in",
+          "die",
+          "wêreld,"
+        ],
+        [
+          "Daar",
+          "is",
+          "'n",
+          "toekoms",
+          "land",
+          "in",
+          "Afrika"
+        ],
+        [
+          "Sy",
+          "môres",
+          "lê",
+          "nog",
+          "ver."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "my",
+          "sonskynland"
+        ],
+        [
+          "Dis",
+          "môre-môre",
+          "wêreld"
+        ],
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "my",
+          "Suiderland"
+        ],
+        [
+          "My",
+          "môrelandkontrei."
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "my",
+          "toekomsland"
+        ],
+        [
+          "Die",
+          "wêreld",
+          "waar",
+          "ek",
+          "bly"
+        ],
+        [
+          "My",
+          "land",
+          "my",
+          "land",
+          "my",
+          "môreland"
+        ],
+        [
+          "Geboortelandkontrei"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "source_file": "../../files/SterrenagHeldernag.txt",
+  "title": "STERRENAG, HELDER PRAG",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Sterrenag,",
+          "helderprag,"
+        ],
+        [
+          "Nag",
+          "van",
+          "skoonheid",
+          "en",
+          "vreugde,"
+        ],
+        [
+          "Saggies",
+          "ruis",
+          "windgesuis"
+        ],
+        [
+          "Deur",
+          "die",
+          "bome",
+          "en",
+          "velde."
+        ],
+        [
+          "Hoor",
+          "jy",
+          "die",
+          "stem",
+          "van",
+          "die",
+          "nagwind",
+          "roep:"
+        ],
+        [
+          "Bly",
+          "getrou",
+          "vir",
+          "ewig."
+        ],
+        [
+          "Ek",
+          "bly",
+          "trou,",
+          "net",
+          "aan",
+          "jou;"
+        ],
+        [
+          "Ons",
+          "behoort",
+          "aan",
+          "elkander."
+        ]
+      ]
+    }
+  ]
+}

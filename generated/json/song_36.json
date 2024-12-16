@@ -1,0 +1,198 @@
+{
+  "source_file": "../../files/BolandseNooientjie.txt",
+  "title": "BOLANDSE NOOI'NTJIE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Bolandse",
+          "nooi'ntjie,",
+          "stil",
+          "is",
+          "die",
+          "nag,"
+        ],
+        [
+          "soet",
+          "is",
+          "jou",
+          "rus",
+          "na",
+          "die",
+          "lang,",
+          "lange",
+          "dag!"
+        ],
+        [
+          "Saans",
+          "in",
+          "my",
+          "drome",
+          "kom",
+          "ek",
+          "na",
+          "jou,"
+        ],
+        [
+          "smagtend",
+          "na",
+          "lonkies",
+          "uit",
+          "oë",
+          "so",
+          "blou."
+        ],
+        [
+          "Berge",
+          "en",
+          "dale",
+          "kan",
+          "ons",
+          "nooit",
+          "skei,"
+        ],
+        [
+          "want",
+          "in",
+          "die",
+          "droomland",
+          "ontmoet",
+          "jy",
+          "vir",
+          "my."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Bolandse",
+          "nooi'ntjie,",
+          "stil",
+          "is",
+          "die",
+          "nag!"
+        ],
+        [
+          "Kom",
+          "in",
+          "my",
+          "drome,",
+          "o",
+          "liefste,",
+          "ek",
+          "wag!"
+        ],
+        [
+          "Kom",
+          "in",
+          "my",
+          "drome,",
+          "o",
+          "liefste,",
+          "ek",
+          "wag!"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Bolandse",
+          "nooi'ntjie,",
+          "sluimer",
+          "nou",
+          "sag,"
+        ],
+        [
+          "ver",
+          "in",
+          "die",
+          "droomland",
+          "ontmoet",
+          "ons",
+          "vannag,"
+        ],
+        [
+          "daar",
+          "waar",
+          "die",
+          "blomme",
+          "weelderig",
+          "groei,"
+        ],
+        [
+          "daar",
+          "waar",
+          "die",
+          "strome",
+          "sag",
+          "murmelend",
+          "vloei."
+        ],
+        [
+          "Soos",
+          "in",
+          "vergange",
+          "dae",
+          "weleer,"
+        ],
+        [
+          "troos",
+          "ons",
+          "mekaar",
+          "weer",
+          "met",
+          "soentjies",
+          "so",
+          "teer."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Bolandse",
+          "nooi'ntjie,",
+          "stil",
+          "is",
+          "die",
+          "nag!"
+        ],
+        [
+          "Kom",
+          "in",
+          "my",
+          "drome,",
+          "o",
+          "liefste,",
+          "ek",
+          "wag!"
+        ],
+        [
+          "Kom",
+          "in",
+          "my",
+          "drome,",
+          "o",
+          "liefste,",
+          "ek",
+          "wag!"
+        ]
+      ]
+    }
+  ]
+}

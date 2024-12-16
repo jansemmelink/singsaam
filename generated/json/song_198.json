@@ -1,0 +1,78 @@
+{
+  "source_file": "../../files/ODieVoortrekkerLewe.txt",
+  "title": "O, DIE VOORTREKKERLEWE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "O........................................,",
+          "die",
+          "Voortrekkerlewe,"
+        ],
+        [
+          "Dis",
+          "die",
+          "lewe",
+          "vir",
+          "my."
+        ],
+        [
+          "O,",
+          "dis",
+          "kamp,",
+          "sing",
+          "en",
+          "spelery,"
+        ],
+        [
+          "Mens",
+          "kan",
+          "niks",
+          "beters",
+          "kry."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Voortrekkers,",
+          "holdria-di-hi-ha,"
+        ],
+        [
+          "Holdria",
+          "Hou",
+          "Koers."
+        ],
+        [
+          "Holdria-di-hi-ha,"
+        ],
+        [
+          "Holdria",
+          "Hou",
+          "Koers."
+        ],
+        [
+          "Holdria-di-hi-ha,"
+        ],
+        [
+          "Holdria",
+          "Hou",
+          "Koers."
+        ],
+        [
+          "Holdria-di-hi",
+          "Hou",
+          "Koers!"
+        ]
+      ]
+    }
+  ]
+}

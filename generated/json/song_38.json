@@ -1,0 +1,365 @@
+{
+  "source_file": "../../files/Boude.txt",
+  "title": "BOUDE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "ELKE",
+          "AAND",
+          "DROOM",
+          "EK",
+          "VAN",
+          "'N",
+          "DIFFERENT",
+          "BOUD"
+        ],
+        [
+          "DIE",
+          "EERSTE",
+          "BOUD",
+          "IS",
+          "'N",
+          "HOENDERBOUD"
+        ],
+        [
+          "DIE",
+          "TWEEDE",
+          "BOUD",
+          "IS",
+          "'N",
+          "BEESTE",
+          "BOUD"
+        ],
+        [
+          "MAAR",
+          "DIE",
+          "DERDE",
+          "BOUD",
+          "IS",
+          "AMIENA",
+          "SE",
+          "BOUD"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Chorus"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "O,",
+          "BOUDE,",
+          "LEKKER",
+          "LEKKER"
+        ],
+        [
+          "LEKKER",
+          "HOENDERBOUDE"
+        ],
+        [
+          "BOUDE,",
+          "LEKKER",
+          "LEKKER"
+        ],
+        [
+          "LEKKER",
+          "BEESTE",
+          "BOUDE"
+        ],
+        [
+          "DIE",
+          "'BOAT'",
+          "WAT",
+          "RY,",
+          "SAL",
+          "JY",
+          "SAL",
+          "JY"
+        ],
+        [
+          "SAL",
+          "JY",
+          "IN",
+          "DIE",
+          "WATER",
+          "KRY"
+        ],
+        [
+          "WAT",
+          "JY",
+          "WIL",
+          "HÊ,",
+          "IS",
+          "DIE",
+          "BOUD"
+        ],
+        [
+          "WAT",
+          "DAAR",
+          "BY",
+          "JOU",
+          "LÊ"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "O,",
+          "EK",
+          "DROOM",
+          "EK",
+          "VAT",
+          "AAN",
+          "AMIENA",
+          "SE",
+          "BOUD"
+        ],
+        [
+          "DIE",
+          "LINKER",
+          "BOUD",
+          "WAS",
+          "NET",
+          "'N",
+          "BIETJIE",
+          "KOUD"
+        ],
+        [
+          "HAAR",
+          "REGTERBOUD",
+          "MAAK",
+          "MY",
+          "SO",
+          "BENOUD"
+        ],
+        [
+          "TOE",
+          "EET",
+          "EK",
+          "MAAR",
+          "LIEWER",
+          "DIE"
+        ],
+        [
+          "HOENDER",
+          "SE",
+          "BOUD,",
+          "O"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Chorus"
+        ],
+        [
+          "BOUDE,",
+          "LEKKER",
+          "LEKKER"
+        ],
+        [
+          "LEKKER",
+          "HOENDERBOUDE"
+        ],
+        [
+          "BOUDE,",
+          "LEKKER",
+          "LEKKER"
+        ],
+        [
+          "LEKKER",
+          "BEESTE",
+          "BOUDE"
+        ],
+        [
+          "DIE",
+          "'BOAT'",
+          "WAT",
+          "RY,",
+          "SAL",
+          "JY",
+          "SAL",
+          "JY"
+        ],
+        [
+          "SAL",
+          "JY",
+          "IN",
+          "DIE",
+          "WATER",
+          "KRY"
+        ],
+        [
+          "WAT",
+          "JY",
+          "WIL",
+          "HÊ,",
+          "IS",
+          "DIE",
+          "BOUD"
+        ],
+        [
+          "WAT",
+          "DAAR",
+          "BY",
+          "JOU",
+          "LÊ"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "TOE",
+          "EK",
+          "WAKKER",
+          "SKRIK,",
+          "TOE",
+          "KYK",
+          "EK",
+          "ROND"
+        ],
+        [
+          "DIE",
+          "KOMBERSE",
+          "LÊ",
+          "ALMAL",
+          "OP",
+          "DIE",
+          "GROND"
+        ],
+        [
+          "DIS",
+          "'N",
+          "DROOM,",
+          "'N",
+          "DROOM,"
+        ],
+        [
+          "'N",
+          "WONDERLIKE",
+          "DROOM"
+        ],
+        [
+          "DIS",
+          "'N",
+          "DROOM",
+          "VAN",
+          "BAIE",
+          "BOUDE"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Chorus:"
+        ],
+        [
+          "BOUDE,",
+          "LEKKER",
+          "LEKKER"
+        ],
+        [
+          "LEKKER",
+          "HOENDERBOUDE"
+        ],
+        [
+          "BOUDE,",
+          "LEKKER",
+          "LEKKER"
+        ],
+        [
+          "LEKKER",
+          "BEESTE",
+          "BOUDE"
+        ],
+        [
+          "DIE",
+          "'BOAT'",
+          "WAT",
+          "RY,",
+          "SAL",
+          "JY",
+          "SAL",
+          "JY"
+        ],
+        [
+          "SAL",
+          "JY",
+          "IN",
+          "DIE",
+          "WATER",
+          "KRY"
+        ],
+        [
+          "WAT",
+          "JY",
+          "WIL",
+          "HÊ,",
+          "IS",
+          "DIE",
+          "BOUD"
+        ],
+        [
+          "WAT",
+          "DAAR",
+          "BY",
+          "JOU",
+          "LÊ"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "WAT",
+          "JY",
+          "WIL",
+          "HÊ,",
+          "IS",
+          "DIE",
+          "BOUD",
+          "WAT",
+          "DAAR",
+          "BY",
+          "JOU",
+          "LÊ"
+        ]
+      ]
+    }
+  ]
+}

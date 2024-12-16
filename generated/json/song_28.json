@@ -1,0 +1,147 @@
+{
+  "source_file": "../../files/BlondeMatroos.txt",
+  "title": "BLONDE MATROOS",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Sy",
+          "staan",
+          "op",
+          "die",
+          "hawe,",
+          "van",
+          "Tafelbaai",
+          "strand,"
+        ],
+        [
+          "Haar",
+          "seeman,",
+          "geliefde,",
+          "hou",
+          "sy",
+          "by",
+          "die",
+          "hand."
+        ],
+        [
+          "Sy",
+          "kla",
+          "oor",
+          "haar",
+          "noodlot,",
+          "haar",
+          "hartjie",
+          "is",
+          "seer."
+        ],
+        [
+          "Sy",
+          "het",
+          "glad",
+          "geen",
+          "tuiste,",
+          "geen",
+          "moederlief",
+          "meer."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Neem",
+          "haar,",
+          "o",
+          "matroos,"
+        ],
+        [
+          "neem",
+          "haar",
+          "saam",
+          "as",
+          "jy",
+          "swerwe,"
+        ],
+        [
+          "By",
+          "jou",
+          "wil",
+          "sy",
+          "woon,",
+          "wil",
+          "sy",
+          "lag,",
+          "wil",
+          "sy",
+          "sterwe."
+        ],
+        [
+          "Jul",
+          "behoort",
+          "mos",
+          "tesame;"
+        ],
+        [
+          "soos",
+          "die",
+          "wind",
+          "en",
+          "die",
+          "see."
+        ],
+        [
+          "Sy",
+          "gee",
+          "jou",
+          "haar",
+          "liefde,"
+        ],
+        [
+          "ag",
+          "wat",
+          "meer",
+          "kan",
+          "sy",
+          "gee."
+        ],
+        [
+          "Jul",
+          "behoort",
+          "mos",
+          "tesame;"
+        ],
+        [
+          "soos",
+          "die",
+          "wind",
+          "en",
+          "die",
+          "see."
+        ],
+        [
+          "Sy",
+          "gee",
+          "jou",
+          "haar",
+          "liefde,"
+        ],
+        [
+          "ag",
+          "wat",
+          "meer",
+          "kan",
+          "sy",
+          "gee"
+        ]
+      ]
+    }
+  ]
+}

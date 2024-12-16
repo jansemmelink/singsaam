@@ -1,0 +1,101 @@
+{
+  "source_file": "../../files/OpMyOuRamkiekie.txt",
+  "title": "OP MY OU RAMKIETJIE",
+  "artists": [
+    "Dozi"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Op",
+          "my",
+          "ou",
+          "ramkietjie"
+        ],
+        [
+          "met",
+          "nog",
+          "net",
+          "een",
+          "snaar"
+        ],
+        [
+          "speel",
+          "ek",
+          "in",
+          "die",
+          "maanlig"
+        ],
+        [
+          "deurmekaar"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "As",
+          "die",
+          "maan",
+          "my",
+          "aanhoor"
+        ],
+        [
+          "en",
+          "die",
+          "sterretjies",
+          "knik"
+        ],
+        [
+          "dan",
+          "speel",
+          "ek",
+          "kordaat",
+          "voort"
+        ],
+        [
+          "in",
+          "my",
+          "skik"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Op",
+          "my",
+          "ou",
+          "ramkietjie"
+        ],
+        [
+          "met",
+          "nog",
+          "net",
+          "een",
+          "snaar"
+        ],
+        [
+          "speel",
+          "ek",
+          "in",
+          "die",
+          "maanskyn"
+        ],
+        [
+          "deurmekaar"
+        ]
+      ]
+    }
+  ]
+}

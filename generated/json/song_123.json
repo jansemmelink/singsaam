@@ -1,0 +1,201 @@
+{
+  "source_file": "../../files/Jantjie.txt",
+  "title": "JANTJIE",
+  "artists": [
+    "Sonja Herholdt"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Jantjie",
+          "kom",
+          "huis",
+          "toe"
+        ],
+        [
+          "Katryntjie",
+          "wag",
+          "vir",
+          "jou"
+        ],
+        [
+          "Jantjie",
+          "kom",
+          "kom",
+          "huis",
+          "toe"
+        ],
+        [
+          "die",
+          "Kaap",
+          "is",
+          "leeg",
+          "sonder",
+          "jou"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "my",
+          "ghantang",
+          "van",
+          "die",
+          "onder",
+          "kaap"
+        ],
+        [
+          "as",
+          "die",
+          "mammies",
+          "op",
+          "hul",
+          "hakke",
+          "loop"
+        ],
+        [
+          "wie",
+          "kan",
+          "dit",
+          "hou",
+          "my",
+          "dear"
+        ],
+        [
+          "wie",
+          "kan",
+          "dit",
+          "dan",
+          "hou"
+        ],
+        [
+          "neem",
+          "my",
+          "hand",
+          "en",
+          "vat",
+          "my",
+          "saam"
+        ],
+        [
+          "na",
+          "die",
+          "dixie",
+          "land",
+          "vanaand"
+        ],
+        [
+          "Jantjie",
+          "van",
+          "die",
+          "onder",
+          "kaap"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Jantjie",
+          "kom",
+          "huis",
+          "toe"
+        ],
+        [
+          "Katryntjie",
+          "wag",
+          "vir",
+          "jou"
+        ],
+        [
+          "Jantjie",
+          "kom",
+          "kom",
+          "huis",
+          "toe"
+        ],
+        [
+          "die",
+          "Kaap",
+          "is",
+          "leeg",
+          "sonder",
+          "jou"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "my",
+          "ghantang",
+          "van",
+          "die",
+          "onder",
+          "kaap"
+        ],
+        [
+          "as",
+          "die",
+          "mammies",
+          "op",
+          "hul",
+          "hakke",
+          "loop"
+        ],
+        [
+          "wie",
+          "kan",
+          "dit",
+          "hou",
+          "my",
+          "dear"
+        ],
+        [
+          "wie",
+          "kan",
+          "dit",
+          "dan",
+          "hou"
+        ],
+        [
+          "neem",
+          "my",
+          "hand",
+          "en",
+          "vat",
+          "my",
+          "saam"
+        ],
+        [
+          "na",
+          "die",
+          "dixie",
+          "land",
+          "vanaand"
+        ],
+        [
+          "Jantjie",
+          "van",
+          "die",
+          "onder",
+          "kaap"
+        ]
+      ]
+    }
+  ]
+}

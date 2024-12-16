@@ -1,0 +1,77 @@
+{
+  "source_file": "../../files/AsDieNagwindSaggiesFluister.txt",
+  "title": "AS DIE NAGWIND SAGGIES FLUISTER",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "As",
+          "die",
+          "nagwind",
+          "saggies",
+          "fluister"
+        ],
+        [
+          "Stil",
+          "deur",
+          "die",
+          "nag."
+        ],
+        [
+          "En",
+          "die",
+          "bome",
+          "bewend",
+          "luister",
+          "-"
+        ],
+        [
+          "Stil",
+          "deur",
+          "die",
+          "nag."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dan",
+          "ruis",
+          "in",
+          "my",
+          "droewe",
+          "sange,"
+        ],
+        [
+          "Weemoed",
+          "en",
+          "'n",
+          "stil",
+          "verlange"
+        ],
+        [
+          "Na",
+          "die",
+          "dae",
+          "van",
+          "vergange",
+          "-"
+        ],
+        [
+          "Stil",
+          "deur",
+          "die",
+          "nag."
+        ]
+      ]
+    }
+  ]
+}

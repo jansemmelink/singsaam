@@ -1,0 +1,141 @@
+{
+  "source_file": "../../files/Enkeling.txt",
+  "title": "BALLADE VIR 'N ENKELING",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Vreemde",
+          "nag,",
+          "Skarlaken",
+          "nag"
+        ],
+        [
+          "Koerantpapiere,",
+          "baksteenmure"
+        ],
+        [
+          "Neon",
+          "nag,",
+          "Sirenes",
+          "onder",
+          "'n",
+          "donker",
+          "maan"
+        ],
+        [
+          "Nag",
+          "na",
+          "nag,",
+          "mens",
+          "na",
+          "mens"
+        ],
+        [
+          "Donker",
+          "nagte,",
+          "onverwagte"
+        ],
+        [
+          "Skadufigure"
+        ],
+        [
+          "En",
+          "elkeen",
+          "is",
+          "uiteindelik"
+        ],
+        [
+          "Enkeling,",
+          "vreemdeling,",
+          "verstoteling"
+        ],
+        [
+          "Rug",
+          "gedraai",
+          "op",
+          "die",
+          "ligtekring"
+        ],
+        [
+          "Agterstevoor,",
+          "onderstebo"
+        ],
+        [
+          "Vreemdeling,",
+          "enkeling,",
+          "alleen"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dag",
+          "na",
+          "dag,",
+          "Staat",
+          "na",
+          "straat"
+        ],
+        [
+          "Kaart",
+          "na",
+          "kaart,",
+          "mens",
+          "na",
+          "mens"
+        ],
+        [
+          "Nag",
+          "na",
+          "nag"
+        ],
+        [
+          "Dans",
+          "na",
+          "dans",
+          "is",
+          "elkeen",
+          "'n",
+          "enkeling"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Vreemde",
+          "nag,",
+          "Skarlaken",
+          "nag"
+        ],
+        [
+          "Koerantpapiere,",
+          "baksteenmure"
+        ],
+        [
+          "Neon",
+          "nag"
+        ],
+        [
+          "Sirenes",
+          "onder",
+          "'n",
+          "donker",
+          "maan"
+        ]
+      ]
+    }
+  ]
+}

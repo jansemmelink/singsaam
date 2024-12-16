@@ -22,19 +22,20 @@ func main() {
 	dataDir := flag.String("data", "../../data", "Data directory")
 
 	findNew := flag.Int("find-new", 0, "Find files in input that are not yet in data")
-	export := flag.Bool("export-json", false, "Exports JSON files into data/song_#.json")
+	exportJson := flag.String("export-json", "../../generated/json", "Exports JSON files into song_#.json")
+	exportMd := flag.String("export-md", "../../generated/md", "Exports Markdown files into song_#.md")
 	flag.Parse()
 
 	tool := tool{
 		inputDir: *inputDir,
 		dataDir:  *dataDir,
-		songs:    []model.Song{},
+		songs:    []*model.Song{},
 	}
 
 	switch {
 	case *findNew > 0:
 		if err := tool.findNew(*findNew); err != nil {
-			log.Errorf("failed: %+v ... but continue to save", err)
+			panic(fmt.Sprintf("failed: %+v ... but continue to save", err))
 		}
 	default:
 		panic("no action specified")
@@ -43,29 +44,24 @@ func main() {
 	tool.checkArtists()
 	log.Debugf("Tool has %d songs", len(tool.songs))
 
-	if *export {
-		for i, s := range tool.songs {
-			fn := fmt.Sprintf("%s/song_%d.json", *dataDir, i)
-			f, err := os.Create(fn)
-			if err != nil {
-				panic(fmt.Sprintf("failed to create song file %s: %+v", fn, err))
-			}
-			defer f.Close()
-			e := json.NewEncoder(f)
-			e.SetIndent("", "  ")
-			if err := e.Encode(s); err != nil {
-				panic(fmt.Sprintf("failed to encode song(%s): %+v", s.Title, err))
-			}
+	if *exportJson != "" {
+		if err := tool.exportJson(*exportJson); err != nil {
+			panic(fmt.Sprintf("failed: %+v", err))
 		}
-		log.Debugf("Written to %s", *dataDir)
-	}
+	} //export json
+
+	if *exportMd != "" {
+		if err := tool.exportMd(*exportMd); err != nil {
+			panic(fmt.Sprintf("failed: %+v", err))
+		}
+	} //export md
 }
 
 type tool struct {
 	inputDir string
 	dataDir  string
 
-	songs []model.Song
+	songs []*model.Song
 }
 
 func (tool *tool) findNew(limit int) error {
@@ -94,7 +90,7 @@ func (tool *tool) evalInputFile(limit int) func(path string, info fs.FileInfo, e
 			if err := newSong.LoadTxtFile(path); err != nil {
 				return errors.Wrapf(err, "failed to read song file %s", path)
 			}
-			tool.songs = append(tool.songs, newSong)
+			tool.songs = append(tool.songs, &newSong)
 		}
 		return nil
 	}
@@ -116,4 +112,75 @@ func (tool tool) checkArtists() {
 	for _, artist := range list {
 		log.Debugf("%s", artist)
 	}
-}
+} //checkArtists()
+
+func (tool tool) exportJson(dir string) error {
+	for i, s := range tool.songs {
+		fn := fmt.Sprintf("%s/song_%d.json", dir, i)
+		f, err := os.Create(fn)
+		if err != nil {
+			panic(fmt.Sprintf("failed to create song file %s: %+v", fn, err))
+		}
+		defer f.Close()
+		e := json.NewEncoder(f)
+		e.SetIndent("", "  ")
+		if err := e.Encode(s); err != nil {
+			panic(fmt.Sprintf("failed to encode song(%s): %+v", s.Title, err))
+		}
+	}
+	log.Debugf("Written Json to %s", dir)
+	return nil
+} //tool.exportJson()
+
+func (tool tool) exportMd(dir string) error {
+	titlesFilename := fmt.Sprintf("%s/_titles.md", dir)
+	titlesFile, err := os.Create(titlesFilename)
+	if err != nil {
+		return errors.Wrapf(err, "failed to create md index file %s", titlesFilename)
+	}
+	defer titlesFile.Close()
+
+	fmt.Fprintf(titlesFile, "# Titles\n")
+	sort.Slice(tool.songs, func(i, j int) bool { return tool.songs[i].Title < tool.songs[j].Title })
+	byArtist := map[string][]*model.Song{}
+	for i, s := range tool.songs {
+		s.MdFilename = fmt.Sprintf("%s/song_%d.md", dir, i)
+		if err := s.ExportMarkDown(s.MdFilename); err != nil {
+			return errors.Wrapf(err, "failed")
+		}
+		fmt.Fprintf(titlesFile, "* [%s](%s)\n", s.Title, s.MdFilename)
+		for _, artist := range s.Artists {
+			list, ok := byArtist[artist]
+			if !ok {
+				byArtist[artist] = []*model.Song{s}
+			} else {
+				byArtist[artist] = append(list, s)
+			}
+		}
+	} //for each song
+
+	artists := []string{}
+	for artist := range byArtist {
+		artists = append(artists, artist)
+	}
+	sort.Slice(artists, func(i, j int) bool { return artists[i] < artists[j] })
+
+	artistsFilename := fmt.Sprintf("%s/_artists.md", dir)
+	artistsFile, err := os.Create(artistsFilename)
+	if err != nil {
+		return errors.Wrapf(err, "failed to create md index file %s", artistsFilename)
+	}
+	defer artistsFile.Close()
+	fmt.Fprintf(artistsFile, "# Artists\n")
+
+	for _, artist := range artists {
+		list := byArtist[artist]
+		fmt.Fprintf(artistsFile, "## %s\n", artist)
+		for _, song := range list {
+			fmt.Fprintf(artistsFile, "* [%s](%s)\n", song.Title, song.MdFilename)
+		}
+	}
+
+	log.Debugf("Written MD to %s", dir)
+	return nil
+} //tool.exportMd()

@@ -1,0 +1,128 @@
+{
+  "source_file": "../../files/MoreOompieMoreTannie.txt",
+  "title": "MôRE OOMPIE, MôRE TANNIE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Môre",
+          "Oompie,",
+          "môre",
+          "Tannie,"
+        ],
+        [
+          "Waar",
+          "is",
+          "Sannie",
+          "dan?"
+        ],
+        [
+          "Sannie",
+          "het",
+          "gaan",
+          "water",
+          "haal"
+        ],
+        [
+          "Daar",
+          "onder",
+          "by",
+          "die",
+          "dam."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Ja,",
+          "Oompie,",
+          "ja,",
+          "môre",
+          "gaan",
+          "ons",
+          "trou!"
+        ],
+        [
+          "Ja,",
+          "Oompie,",
+          "ja,",
+          "môre",
+          "gaan",
+          "ons",
+          "trou!"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Haar",
+          "rokkie",
+          "het",
+          "'n",
+          "skeurtjie",
+          "in,"
+        ],
+        [
+          "Die",
+          "jonkman",
+          "kyk",
+          "daarna."
+        ],
+        [
+          "Die",
+          "jonkman",
+          "vra",
+          "om",
+          "met",
+          "Sannie",
+          "te",
+          "trou,"
+        ],
+        [
+          "En",
+          "skamerig",
+          "sê",
+          "sy:",
+          "\"Ja.\""
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Ja,",
+          "Oompie,",
+          "ja,",
+          "môre",
+          "gaan",
+          "ons",
+          "trou!"
+        ],
+        [
+          "Ja,",
+          "Oompie,",
+          "ja,",
+          "môre",
+          "gaan",
+          "ons",
+          "trou!"
+        ]
+      ]
+    }
+  ]
+}

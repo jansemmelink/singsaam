@@ -1,0 +1,108 @@
+{
+  "source_file": "../../files/KomPatertjie.txt",
+  "title": "KOM PATERTJIE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "Patertjie,",
+          "buig",
+          "jou",
+          "stywe",
+          "dop"
+        ],
+        [
+          "En",
+          "volg",
+          "die",
+          "nonnatjie",
+          "in",
+          "'n",
+          "kring."
+        ],
+        [
+          "Want",
+          "in",
+          "die",
+          "kring",
+          "is",
+          "ons",
+          "so",
+          "bly"
+        ],
+        [
+          "En",
+          "laat",
+          "ons",
+          "soms",
+          "so",
+          "lig",
+          "verlei"
+        ],
+        [
+          "Om",
+          "saam",
+          "in",
+          "die",
+          "rondte",
+          "te",
+          "gly."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Draai",
+          "ons",
+          "en",
+          "swaai",
+          "ons",
+          "tot",
+          "laat",
+          "in",
+          "die",
+          "nag;"
+        ],
+        [
+          "Hier",
+          "sal",
+          "ons",
+          "nooit",
+          "nie",
+          "op",
+          "ander",
+          "laat",
+          "wag."
+        ],
+        [
+          "Eerder",
+          "sal",
+          "ons",
+          "hulle",
+          "wakker",
+          "laat",
+          "bly"
+        ],
+        [
+          "Om",
+          "hier",
+          "tesaam",
+          "in",
+          "die",
+          "rondte",
+          "te",
+          "gly."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "source_file": "../../files/KomEkMetDieSlee.txt",
+  "title": "KOM EK MET DIE SLEE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "ek",
+          "met",
+          "die",
+          "slee,",
+          "dan",
+          "sê",
+          "sy",
+          "sommer",
+          "\"nee\""
+        ],
+        [
+          "Kom",
+          "ek",
+          "met",
+          "die",
+          "wa,",
+          "dan",
+          "sê",
+          "sy",
+          "sommer",
+          "\"ja\""
+        ],
+        [
+          "Jan,",
+          "Jan,",
+          "Jan,",
+          "Jan",
+          "die",
+          "lekker",
+          "Jan",
+          "van",
+          "Pa",
+          "-"
+        ],
+        [
+          "San,",
+          "San,",
+          "San,",
+          "San,",
+          "die",
+          "lekker",
+          "San",
+          "van",
+          "Ma."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "ek",
+          "met",
+          "die",
+          "kar,",
+          "dan",
+          "is",
+          "sy",
+          "in",
+          "die",
+          "war,"
+        ],
+        [
+          "Kom",
+          "ek",
+          "met",
+          "die",
+          "Vos,",
+          "dan",
+          "is",
+          "sy",
+          "op",
+          "haar",
+          "pos."
+        ],
+        [
+          "Jan,",
+          "Jan,",
+          "Jan,",
+          "Jan",
+          "die",
+          "lekker",
+          "Jan",
+          "van",
+          "Pa",
+          "-"
+        ],
+        [
+          "San,",
+          "San,",
+          "San,",
+          "San,",
+          "die",
+          "lekker",
+          "San",
+          "van",
+          "Ma."
+        ]
+      ]
+    }
+  ]
+}

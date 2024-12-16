@@ -1,0 +1,40 @@
+{
+  "source_file": "../../files/Tortelduifie.txt",
+  "title": "TORTELDUIFIE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tortelduifie",
+          "sit",
+          "in",
+          "die",
+          "eikeboom,"
+        ],
+        [
+          "sing",
+          "die",
+          "lied",
+          "van",
+          "sy",
+          "lewensdroom."
+        ],
+        [
+          "Koer,",
+          "tortelduifie,",
+          "koer,"
+        ],
+        [
+          "tortelduifie",
+          "by",
+          "die",
+          "waterstroom!"
+        ]
+      ]
+    }
+  ]
+}

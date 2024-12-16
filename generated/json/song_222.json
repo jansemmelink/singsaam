@@ -1,0 +1,203 @@
+{
+  "source_file": "../../files/Reen.txt",
+  "title": "REëN",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kyk",
+          "hoe",
+          "sag",
+          "val",
+          "die",
+          "reën",
+          "in",
+          "die",
+          "boomryke",
+          "lane,"
+        ],
+        [
+          "Waar",
+          "ek",
+          "jou",
+          "altyd",
+          "neem,"
+        ],
+        [
+          "in",
+          "ons",
+          "vreugde",
+          "en",
+          "trane."
+        ],
+        [
+          "In",
+          "my",
+          "hart",
+          "van",
+          "die",
+          "reën"
+        ],
+        [
+          "as",
+          "jy",
+          "somtyds",
+          "nog",
+          "twyfel,"
+        ],
+        [
+          "Maar",
+          "my",
+          "hart",
+          "word",
+          "geseën"
+        ],
+        [
+          "net",
+          "met",
+          "liefde",
+          "vir",
+          "jou."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Reën,",
+          "reën,",
+          "lieflike",
+          "reën,"
+        ],
+        [
+          "Val",
+          "op",
+          "die",
+          "lande,",
+          "val",
+          "om",
+          "ons",
+          "heen,"
+        ],
+        [
+          "Reën,",
+          "reën,",
+          "ons",
+          "sorge",
+          "is",
+          "reën,"
+        ],
+        [
+          "Jubel",
+          "my",
+          "hart",
+          "oor",
+          "jou."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "In",
+          "die",
+          "laatmiddag",
+          "reën,",
+          "drup",
+          "die",
+          "nat",
+          "eikeblare."
+        ],
+        [
+          "Hier",
+          "is",
+          "ons",
+          "twee",
+          "tesaam,"
+        ],
+        [
+          "in",
+          "die",
+          "fleur",
+          "van",
+          "ons",
+          "jare."
+        ],
+        [
+          "Sal",
+          "jy,",
+          "liefling,",
+          "my",
+          "nou",
+          "al",
+          "jou",
+          "liefde",
+          "belowe?"
+        ],
+        [
+          "Wil",
+          "jy",
+          "graag",
+          "met",
+          "my",
+          "trou,"
+        ],
+        [
+          "dan",
+          "word",
+          "twee",
+          "harte",
+          "een."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Reën,",
+          "reën,",
+          "lieflike",
+          "reën,"
+        ],
+        [
+          "Val",
+          "op",
+          "die",
+          "lande,",
+          "val",
+          "om",
+          "ons",
+          "heen,"
+        ],
+        [
+          "Reën,",
+          "reën,",
+          "ons",
+          "sorge",
+          "is",
+          "reën,"
+        ],
+        [
+          "Jubel",
+          "my",
+          "hart",
+          "oor",
+          "jou."
+        ]
+      ]
+    }
+  ]
+}

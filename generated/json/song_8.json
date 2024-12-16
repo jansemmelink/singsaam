@@ -1,0 +1,147 @@
+{
+  "source_file": "../../files/Alibama.txt",
+  "title": "ALIBAMA",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Daar",
+          "kom",
+          "die",
+          "Alibama,"
+        ],
+        [
+          "Die",
+          "Alibama",
+          "die",
+          "kom",
+          "oor",
+          "die",
+          "see,"
+        ],
+        [
+          "Daar",
+          "kom",
+          "die",
+          "Alibama,"
+        ],
+        [
+          "Die",
+          "Alibama",
+          "die",
+          "kom",
+          "oor",
+          "die",
+          "see."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Nooi,",
+          "Nooi,",
+          "die",
+          "rietkooi",
+          "Nooi,"
+        ],
+        [
+          "Die",
+          "rietkooi",
+          "is",
+          "gemaak."
+        ],
+        [
+          "Die",
+          "rietkooi",
+          "is",
+          "vir",
+          "my",
+          "gemaak"
+        ],
+        [
+          "Om",
+          "daarop",
+          "te",
+          "slaap."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Nooi,",
+          "Nooi,",
+          "die",
+          "rietkooi",
+          "Nooi,"
+        ],
+        [
+          "Die",
+          "rietkooi",
+          "is",
+          "gemaak."
+        ],
+        [
+          "Die",
+          "rietkooi",
+          "is",
+          "vir",
+          "my",
+          "gemaak"
+        ],
+        [
+          "Om",
+          "daarop",
+          "te",
+          "slaap."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "Alibama,",
+          "die",
+          "Alibama,"
+        ],
+        [
+          "Die",
+          "Alibama",
+          "kom",
+          "oor",
+          "die",
+          "see."
+        ],
+        [
+          "Die",
+          "Alibama,",
+          "die",
+          "Alibama,"
+        ],
+        [
+          "Die",
+          "Alibama",
+          "kom",
+          "oor",
+          "die",
+          "see."
+        ]
+      ]
+    }
+  ]
+}

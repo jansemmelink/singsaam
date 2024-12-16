@@ -1,0 +1,190 @@
+{
+  "source_file": "../../files/Spore.txt",
+  "title": "SPORE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          ":Wysie:Die",
+          "lewe",
+          "sonder",
+          "jou"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ons",
+          "spore",
+          "lê",
+          "ver",
+          "oor",
+          "die",
+          "land"
+        ],
+        [
+          "Tot",
+          "aan",
+          "die",
+          "see",
+          "se",
+          "suiderstrand"
+        ],
+        [
+          "Ons",
+          "vuurtjie",
+          "sal",
+          "steeds",
+          "hoër",
+          "brand"
+        ],
+        [
+          "Die",
+          "vryheid",
+          "is",
+          "ons",
+          "duurste",
+          "pand."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "En",
+          "telkens",
+          "dan",
+          "verlang",
+          "ons",
+          "weer"
+        ],
+        [
+          "Na",
+          "tent",
+          "en",
+          "kamp,",
+          "ja,",
+          "elke",
+          "keer"
+        ],
+        [
+          "Bring",
+          "dit",
+          "ons",
+          "nader",
+          "aanmekaar"
+        ],
+        [
+          "Gee",
+          "dit",
+          "ons",
+          "vreug",
+          "vir",
+          "elke",
+          "jaar."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Want",
+          "die",
+          "Trekkers",
+          "vind",
+          "plesier"
+        ],
+        [
+          "Vind",
+          "plesier",
+          "in",
+          "die",
+          "vry",
+          "natuur"
+        ],
+        [
+          "Waar",
+          "die",
+          "doringbome",
+          "groei,"
+        ],
+        [
+          "Bome",
+          "groei",
+          "en",
+          "die",
+          "velblom",
+          "bloei."
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Elke",
+          "dag",
+          "en",
+          "elke",
+          "nag"
+        ],
+        [
+          "Elke",
+          "dag",
+          "bring",
+          "vir",
+          "elkeen",
+          "krag"
+        ],
+        [
+          "Om",
+          "'n",
+          "Voortrekker",
+          "te",
+          "bly"
+        ],
+        [
+          "Ja",
+          "te",
+          "bly,",
+          "altyd",
+          "ek",
+          "en",
+          "jy"
+        ],
+        [
+          "Om",
+          "'n",
+          "Voortrekker",
+          "te",
+          "bly"
+        ],
+        [
+          "Ja",
+          "te",
+          "bly,",
+          "altyd",
+          "ek",
+          "en",
+          "jy."
+        ]
+      ]
+    }
+  ]
+}

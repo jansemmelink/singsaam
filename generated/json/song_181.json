@@ -1,0 +1,118 @@
+{
+  "source_file": "../../files/MyHartVerlangNaDieBoland.txt",
+  "title": "MY HART VERLANG NA DIE BOLAND",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "hart",
+          "verlang",
+          "na",
+          "die",
+          "Boland"
+        ],
+        [
+          "Waar",
+          "die",
+          "blou,",
+          "blou",
+          "berge",
+          "troon"
+        ],
+        [
+          "Waar",
+          "reuse",
+          "kranse",
+          "en",
+          "klowe"
+        ],
+        [
+          "Hulle",
+          "trots",
+          "en",
+          "skoonheid",
+          "toon."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "O,",
+          "blou",
+          "berge",
+          "van",
+          "die",
+          "Boland"
+        ],
+        [
+          "Met",
+          "jul",
+          "goudgetinte",
+          "kruin"
+        ],
+        [
+          "Waar",
+          "Protea",
+          "en",
+          "die",
+          "Heide"
+        ],
+        [
+          "Kleur",
+          "die",
+          "berg",
+          "se",
+          "blommetuin."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "My",
+          "hart",
+          "verlang",
+          "na",
+          "die",
+          "Boland"
+        ],
+        [
+          "Waar",
+          "die",
+          "blou,",
+          "blou",
+          "berge",
+          "troon."
+        ],
+        [
+          "My",
+          "hart",
+          "verlang",
+          "na",
+          "die",
+          "Boland"
+        ],
+        [
+          "Waar",
+          "die",
+          "blou,",
+          "blou",
+          "berge",
+          "troon"
+        ]
+      ]
+    }
+  ]
+}

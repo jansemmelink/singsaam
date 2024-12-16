@@ -1,0 +1,249 @@
+{
+  "source_file": "../../files/LekkerOuJan.txt",
+  "title": "LEKKER OU JAN",
+  "artists": [
+    "Worsie Visser"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "'n",
+          "lekker",
+          "ou",
+          "Jan,",
+          "Dis",
+          "'n",
+          "lekker",
+          "ou",
+          "Jan"
+        ],
+        [
+          "Dis",
+          "'n",
+          "lekker",
+          "ou",
+          "Jan,",
+          "ou",
+          "Jan"
+        ],
+        [
+          "van",
+          "ding",
+          "ou",
+          "dierbare",
+          "ding"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "hang",
+          "aan",
+          "my,",
+          "kom",
+          "hang",
+          "aan",
+          "my"
+        ],
+        [
+          "Kom",
+          "hang",
+          "aan",
+          "my",
+          "soos",
+          "die"
+        ],
+        [
+          "Kaap",
+          "se",
+          "heuning",
+          "by"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek",
+          "het",
+          "jou",
+          "lief,",
+          "ek",
+          "het",
+          "jou",
+          "lief"
+        ],
+        [
+          "Ek",
+          "het",
+          "jou",
+          "lief",
+          "soos",
+          "pap",
+          "en",
+          "boelie",
+          "beef"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "staan",
+          "by",
+          "my,",
+          "kom",
+          "staan",
+          "by",
+          "my"
+        ],
+        [
+          "Kom",
+          "staan",
+          "by",
+          "my",
+          "tot",
+          "die",
+          "perde",
+          "horings",
+          "kry"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dis",
+          "'n",
+          "lekker",
+          "ou",
+          "Jan,",
+          "Dis",
+          "'n",
+          "lekker",
+          "ou",
+          "Jan"
+        ],
+        [
+          "Dis",
+          "'n",
+          "lekker",
+          "ou",
+          "Jan,",
+          "ou",
+          "Jan",
+          "van",
+          "ding",
+          "ou",
+          "dierbare",
+          "ding"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "sit",
+          "by",
+          "my,",
+          "kom",
+          "sit",
+          "by",
+          "my"
+        ],
+        [
+          "Kom",
+          "sit",
+          "by",
+          "my",
+          "soos",
+          "'n",
+          "Kaap",
+          "se",
+          "adamsvy"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "hou",
+          "my",
+          "vas,",
+          "kom",
+          "hou",
+          "my",
+          "vas"
+        ],
+        [
+          "Kom",
+          "hou",
+          "my",
+          "vas",
+          "soos",
+          "dit",
+          "lank",
+          "gelede",
+          "was"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Kom",
+          "praat",
+          "met",
+          "my,",
+          "kom",
+          "praat",
+          "met",
+          "my"
+        ],
+        [
+          "Kom",
+          "praat",
+          "met",
+          "my",
+          "tot",
+          "die",
+          "dag",
+          "weer",
+          "lewe",
+          "kry"
+        ]
+      ]
+    }
+  ]
+}

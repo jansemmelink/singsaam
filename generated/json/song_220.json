@@ -1,0 +1,50 @@
+{
+  "source_file": "../../files/PollieOnsGaanPerelToe.txt",
+  "title": "POLLIE, ONS GAAN PêREL TOE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Pollie",
+          "ons",
+          "gaan",
+          "Pêrel",
+          "toe,",
+          "(3x)"
+        ],
+        [
+          "Ek",
+          "en",
+          "jy",
+          "alleen."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "En",
+          "wat",
+          "sal",
+          "die",
+          "mense",
+          "sê?",
+          "(3x)"
+        ],
+        [
+          "Ek",
+          "en",
+          "jy",
+          "alleen."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "source_file": "../../files/LisaSeKlavier.txt",
+  "title": "LISA SE KLAVIER",
+  "artists": [
+    "Koos Kombuis"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek",
+          "het",
+          "'n",
+          "vriendin",
+          "ver",
+          "by",
+          "die",
+          "blou",
+          "see"
+        ],
+        [
+          "Teen",
+          "die",
+          "hang",
+          "van",
+          "Tafelberg,",
+          "as",
+          "die",
+          "son",
+          "sak,"
+        ],
+        [
+          "speel",
+          "sy",
+          "die",
+          "mooiste",
+          "melodiëe"
+        ],
+        [
+          "Haar",
+          "vingers",
+          "ken",
+          "die",
+          "pad"
+        ],
+        [
+          "opgesluit",
+          "in",
+          "wit",
+          "en",
+          "swart"
+        ],
+        [
+          "Die",
+          "klavier",
+          "se",
+          "grootste",
+          "vreugde,"
+        ],
+        [
+          "hartseer",
+          "en",
+          "verlange,"
+        ],
+        [
+          "verstaan",
+          "die",
+          "hart",
+          "se",
+          "diepste",
+          "smart"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": true,
+      "bridge": false,
+      "lines": [
+        [
+          "Ja,",
+          "die",
+          "hele",
+          "wereld",
+          "word",
+          "stil,"
+        ],
+        [
+          "en",
+          "luister",
+          "in",
+          "die",
+          "donker",
+          "uur"
+        ],
+        [
+          "Na",
+          "die",
+          "naggeluide",
+          "van",
+          "Lisa",
+          "se",
+          "Klavier"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "En",
+          "Lisa",
+          "kan",
+          "nie",
+          "ophou"
+        ],
+        [
+          "as",
+          "sy",
+          "eers",
+          "begin",
+          "het",
+          "nie,"
+        ],
+        [
+          "En",
+          "sy",
+          "laat",
+          "my",
+          "nooit",
+          "huistoe",
+          "loop",
+          "of",
+          "afskeid"
+        ],
+        [
+          "neem",
+          "voor",
+          "my",
+          "laaste",
+          "sigaret",
+          "nie"
+        ],
+        [
+          "Ek",
+          "staan",
+          "op",
+          "haar",
+          "balkon,"
+        ],
+        [
+          "ek",
+          "drink",
+          "haar",
+          "appelkoostee"
+        ],
+        [
+          "Kyk",
+          "uit",
+          "na",
+          "Kaapstad",
+          "in",
+          "die",
+          "nag,"
+        ],
+        [
+          "die",
+          "liggies,",
+          "en",
+          "die",
+          "swart,",
+          "swart",
+          "see"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "En",
+          "onder",
+          "op",
+          "die",
+          "sypaadjie,"
+        ],
+        [
+          "sien",
+          "ek",
+          "die",
+          "bergie",
+          "en",
+          "sy",
+          "maat"
+        ],
+        [
+          "Staan",
+          "op",
+          "en",
+          "opkyk",
+          "ver",
+          "na",
+          "bo,"
+        ],
+        [
+          "vannuit",
+          "die",
+          "vullis",
+          "van",
+          "Oranjestraat"
+        ],
+        [
+          "Hul",
+          "ken",
+          "al",
+          "lank",
+          "die",
+          "klanke"
+        ],
+        [
+          "wat",
+          "uit",
+          "haar",
+          "woonstel",
+          "stroom"
+        ],
+        [
+          "Lank",
+          "na",
+          "twaalf,",
+          "met",
+          "die",
+          "deure",
+          "oop,"
+        ],
+        [
+          "al",
+          "moan",
+          "die",
+          "bure",
+          "ookal",
+          "hoe,"
+        ],
+        [
+          "Word",
+          "Lisa",
+          "elke",
+          "boemelaar",
+          "se",
+          "droom"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Koor"
+        ]
+      ]
+    }
+  ]
+}

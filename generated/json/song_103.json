@@ -1,0 +1,121 @@
+{
+  "source_file": "../../files/HiersMyHand.txt",
+  "title": "HIER'S MY HAND",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Leef",
+          "jy",
+          "in",
+          "vrede",
+          "of",
+          "is",
+          "jy",
+          "vol",
+          "haat."
+        ],
+        [
+          "Ken",
+          "jy",
+          "die",
+          "weelde",
+          "as",
+          "vreemdes",
+          "vriende",
+          "raak."
+        ],
+        [
+          "Leef",
+          "jy",
+          "in",
+          "'n",
+          "droom",
+          "waar",
+          "jy",
+          "alleen",
+          "bestaan"
+        ],
+        [
+          "En",
+          "is",
+          "jy",
+          "een",
+          "van",
+          "vele"
+        ],
+        [
+          "wat",
+          "neem",
+          "en",
+          "wat",
+          "meer",
+          "vra?"
+        ],
+        [
+          "(En)",
+          "hier's",
+          "my",
+          "hand."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Neem",
+          "my",
+          "hand,",
+          "my",
+          "vriend,"
+        ],
+        [
+          "Deel",
+          "my",
+          "lewe,",
+          "deel",
+          "die",
+          "son,"
+        ],
+        [
+          "deel",
+          "die",
+          "lig",
+          "waarvoor",
+          "ons",
+          "vra."
+        ],
+        [
+          "Neem",
+          "my",
+          "hand,",
+          "my",
+          "vriend,"
+        ],
+        [
+          "deel",
+          "met",
+          "my",
+          "daardie",
+          "vrede"
+        ],
+        [
+          "Wat",
+          "elkeen",
+          "van",
+          "ons",
+          "in",
+          "ons",
+          "dra."
+        ]
+      ]
+    }
+  ]
+}

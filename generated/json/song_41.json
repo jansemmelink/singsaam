@@ -1,0 +1,431 @@
+{
+  "source_file": "../../files/BringVirDieHarlekynNogWyn.txt",
+  "title": "HARLEKYN",
+  "artists": [
+    "Sonja Herholdt"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "BRING",
+          "VIR",
+          "DIE",
+          "HARLEKYN",
+          "NOG",
+          "WYN"
+        ],
+        [
+          "ROOIWYN",
+          "VIR",
+          "SY",
+          "LAG",
+          "EN",
+          "TRAAN",
+          "EN",
+          "PYN"
+        ],
+        [
+          "WANT",
+          "HY",
+          "WYS",
+          "ONS"
+        ],
+        [
+          "DIE",
+          "NUWE",
+          "WIND",
+          "WAT",
+          "WAAI"
+        ],
+        [
+          "VAN",
+          "DIE",
+          "VAAL",
+          "TOT",
+          "ONDER",
+          "IN",
+          "SALDANHABAAI"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "BRING",
+          "VIR",
+          "DIE",
+          "HARLEKYN",
+          "NOG",
+          "WYN"
+        ],
+        [
+          "ROOIWYN",
+          "VIR",
+          "SY",
+          "LAG",
+          "EN",
+          "TRAAN",
+          "EN",
+          "PYN"
+        ],
+        [
+          "WANT",
+          "HY",
+          "WYS",
+          "ONS"
+        ],
+        [
+          "DIE",
+          "NUWE",
+          "WIND",
+          "WAT",
+          "WAAI"
+        ],
+        [
+          "VAN",
+          "DIE",
+          "VAAL",
+          "TOT",
+          "ONDER",
+          "IN",
+          "SALDANHABAAI"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "SIRKUSMENSE",
+          "IS",
+          "IN",
+          "DIE",
+          "DORP"
+        ],
+        [
+          "GROOT",
+          "TENT",
+          "VERRYS"
+        ],
+        [
+          "EN",
+          "DIE",
+          "NARRE",
+          "STAAN",
+          "DAAR",
+          "ROND"
+        ],
+        [
+          "HELDERKLEUR",
+          "VRAGMOTORS",
+          "KOM",
+          "EN",
+          "GAAN"
+        ],
+        [
+          "MANNE",
+          "OP",
+          "DIE",
+          "STOKKE",
+          "EN",
+          "WAENS"
+        ],
+        [
+          "WAT",
+          "EENKANT",
+          "STAAN"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "BRING",
+          "VIR",
+          "DIE",
+          "HARLEKYN",
+          "NOG",
+          "WYN"
+        ],
+        [
+          "ROOIWYN",
+          "VIR",
+          "SY",
+          "LAG",
+          "EN",
+          "TRAAN",
+          "EN",
+          "PYN"
+        ],
+        [
+          "WANT",
+          "HY",
+          "WYS",
+          "ONS"
+        ],
+        [
+          "DIE",
+          "NUWE",
+          "WIND",
+          "WAT",
+          "WAAI"
+        ],
+        [
+          "VAN",
+          "DIE",
+          "VAAL",
+          "TOT",
+          "ONDER",
+          "IN",
+          "SALDANHABAAI"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "SIRKUSMEESTER",
+          "KNIP",
+          "SY",
+          "KOP"
+        ],
+        [
+          "BETREE",
+          "DAN",
+          "DIE",
+          "ARENA,"
+        ],
+        [
+          "SIT",
+          "SY",
+          "SWART",
+          "HOED",
+          "OP"
+        ],
+        [
+          "BLAAS",
+          "EERS",
+          "OP",
+          "SY",
+          "FLUITJIE,"
+        ],
+        [
+          "AFRIGTER",
+          "LIG",
+          "SY",
+          "STOK"
+        ],
+        [
+          "SYGORDYNE",
+          "GLY",
+          "OOP"
+        ],
+        [
+          "EN",
+          "DIE",
+          "LEEUS",
+          "KOM",
+          "UIT",
+          "HUL",
+          "HOK"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "BRING",
+          "VIR",
+          "DIE",
+          "HARLEKYN",
+          "NOG",
+          "WYN"
+        ],
+        [
+          "ROOIWYN",
+          "VIR",
+          "SY",
+          "LAG",
+          "EN",
+          "TRAAN",
+          "EN",
+          "PYN"
+        ],
+        [
+          "WANT",
+          "HY",
+          "WYS",
+          "ONS"
+        ],
+        [
+          "DIE",
+          "NUWE",
+          "WIND",
+          "WAT",
+          "WAAI"
+        ],
+        [
+          "VAN",
+          "DIE",
+          "VAAL",
+          "TOT",
+          "ONDER",
+          "IN",
+          "SALDANHABAAI"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "HOOGTOU",
+          "AKROBATE,"
+        ],
+        [
+          "DIE",
+          "MENSE",
+          "SLAAK",
+          "'N",
+          "SUG"
+        ],
+        [
+          "DWARSOOR",
+          "MET",
+          "EENWIEL",
+          "FIETSE,"
+        ],
+        [
+          "DAN",
+          "KEER",
+          "HUL",
+          "WEER",
+          "T'RUG"
+        ],
+        [
+          "MAAR",
+          "EENKANT",
+          "IN",
+          "DIE",
+          "DONKER"
+        ],
+        [
+          "WEGGESTEEK",
+          "VOEL",
+          "EK",
+          "KLEIN"
+        ],
+        [
+          "WANT",
+          "NIKS",
+          "IS",
+          "OOIT",
+          "SO",
+          "HARTSEER",
+          "SOOS",
+          "DIE",
+          "TRAAN",
+          "VAN",
+          "DIE",
+          "HARLEKYN"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "BRING",
+          "VIR",
+          "DIE",
+          "HARLEKYN",
+          "NOG",
+          "WYN"
+        ],
+        [
+          "ROOIWYN",
+          "VIR",
+          "SY",
+          "LAG",
+          "EN",
+          "TRAAN",
+          "EN",
+          "PYN"
+        ],
+        [
+          "WANT",
+          "HY",
+          "WYS",
+          "ONS"
+        ],
+        [
+          "DIE",
+          "NUWE",
+          "WIND",
+          "WAT",
+          "WAAI"
+        ],
+        [
+          "VAN",
+          "DIE",
+          "VAAL",
+          "TOT",
+          "ONDER",
+          "IN",
+          "SALDANHABAAI"
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "WANT",
+          "HY",
+          "WYS",
+          "ONS"
+        ],
+        [
+          "DIE",
+          "NUWE",
+          "WIND",
+          "WAT",
+          "WAAI"
+        ],
+        [
+          "VAN",
+          "DIE",
+          "VAAL",
+          "TOT",
+          "ONDER",
+          "IN",
+          "SALDANHABAAI"
+        ]
+      ]
+    }
+  ]
+}

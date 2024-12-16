@@ -1,0 +1,61 @@
+{
+  "source_file": "../../files/JanPierewiet.txt",
+  "title": "JAN PIEREWIET",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Jan",
+          "Pierewiet,",
+          "Jan",
+          "Pierewiet,"
+        ],
+        [
+          "Jan",
+          "Pierewiet",
+          "staan",
+          "stil."
+        ],
+        [
+          "Jan",
+          "Pierewiet,",
+          "Jan",
+          "Pierewiet,"
+        ],
+        [
+          "Jan",
+          "Pierewiet",
+          "staan",
+          "stil."
+        ],
+        [
+          "Goeiemôre,",
+          "my",
+          "vrou,"
+        ],
+        [
+          "hier's",
+          "'n",
+          "soentjie",
+          "vir",
+          "jou."
+        ],
+        [
+          "Goeiemôre,",
+          "my",
+          "man,",
+          "daar",
+          "is",
+          "koffie",
+          "in",
+          "die",
+          "kan."
+        ]
+      ]
+    }
+  ]
+}

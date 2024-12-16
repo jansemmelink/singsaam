@@ -1,0 +1,136 @@
+{
+  "source_file": "../../files/Gansbaai.txt",
+  "title": "GANSBAAI",
+  "artists": [
+    "Worsie Visser"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Wie",
+          "maak",
+          "vir",
+          "Gansbaai",
+          "lekker"
+        ],
+        [
+          "Wie",
+          "maak",
+          "vir",
+          "Gansbaai",
+          "lekker"
+        ],
+        [
+          "Wie",
+          "maak,",
+          "ja",
+          "wie"
+        ],
+        [
+          "Wie",
+          "maak,",
+          "ja",
+          "wie"
+        ],
+        [
+          "Wie",
+          "maak",
+          "vir",
+          "Gansbaai",
+          "lekker"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Oom",
+          "policeman",
+          "kan",
+          "my",
+          "nie",
+          "vang",
+          "nie"
+        ],
+        [
+          "Vir",
+          "hom",
+          "is",
+          "ek",
+          "tog",
+          "glad",
+          "nie",
+          "bang",
+          "nie"
+        ],
+        [
+          "Oom",
+          "policeman",
+          "kan",
+          "my",
+          "nie",
+          "vang",
+          "nie"
+        ],
+        [
+          "Vir",
+          "hom",
+          "is",
+          "ek",
+          "tog",
+          "glad",
+          "nie",
+          "bang",
+          "nie"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Wie",
+          "maak",
+          "vir",
+          "Gansbaai",
+          "lekker"
+        ],
+        [
+          "Wie",
+          "maak",
+          "vir",
+          "Gansbaai",
+          "lekker"
+        ],
+        [
+          "Wie",
+          "maak,",
+          "ja",
+          "wie"
+        ],
+        [
+          "Wie",
+          "maak,",
+          "ja",
+          "wie"
+        ],
+        [
+          "Wie",
+          "maak",
+          "vir",
+          "Gansbaai",
+          "lekker"
+        ]
+      ]
+    }
+  ]
+}

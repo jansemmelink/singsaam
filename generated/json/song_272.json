@@ -1,0 +1,369 @@
+{
+  "source_file": "../../files/TussenTreine.txt",
+  "title": "TUSSEN TREINE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek",
+          "wonder",
+          "wat",
+          "van",
+          "jou",
+          "geword",
+          "het"
+        ],
+        [
+          "Jy",
+          "wat",
+          "nog",
+          "so",
+          "by",
+          "my",
+          "spook"
+        ],
+        [
+          "Ek",
+          "weet",
+          "net",
+          "ons",
+          "het",
+          "die",
+          "vuur",
+          "gemaak"
+        ],
+        [
+          "Die",
+          "wêreld",
+          "aan",
+          "die",
+          "brand",
+          "gestook"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Nou",
+          "is",
+          "die",
+          "nagte",
+          "soveel",
+          "stiller"
+        ],
+        [
+          "Die",
+          "dae",
+          "eis",
+          "hul",
+          "eie",
+          "tol"
+        ],
+        [
+          "Maar",
+          "ons",
+          "twee",
+          "was",
+          "die",
+          "wilde",
+          "wind",
+          "se",
+          "blare"
+        ],
+        [
+          "Ons",
+          "kaartjies",
+          "lê",
+          "die",
+          "hele",
+          "wêreld",
+          "vol"
+        ],
+        [
+          "Tussen",
+          "treine,",
+          "tussen",
+          "stasies"
+        ],
+        [
+          "Lê",
+          "daar",
+          "basies",
+          "net",
+          "die",
+          "leë",
+          "spore"
+        ],
+        [
+          "Tussen",
+          "treine,",
+          "tussen",
+          "stasies"
+        ],
+        [
+          "Lê",
+          "die",
+          "leë",
+          "spasies",
+          "van",
+          "die",
+          "onskuld",
+          "nou",
+          "verlore"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Nou",
+          "vra",
+          "ek",
+          "waar",
+          "het",
+          "alles",
+          "begin"
+        ],
+        [
+          "Die",
+          "ding",
+          "van",
+          "los",
+          "wees",
+          "voor",
+          "die",
+          "wind"
+        ],
+        [
+          "Onthou",
+          "jy",
+          "ook",
+          "die",
+          "rook",
+          "die",
+          "yster"
+        ],
+        [
+          "Die",
+          "lig",
+          "wat",
+          "in",
+          "die",
+          "verte",
+          "blink"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Dan",
+          "dink",
+          "ek",
+          "terug",
+          "aan",
+          "soveel",
+          "dae"
+        ],
+        [
+          "Soveel",
+          "stawe",
+          "op",
+          "die",
+          "spoor"
+        ],
+        [
+          "Ja,",
+          "daar",
+          "was",
+          "voorheen",
+          "'n",
+          "tyd",
+          "van",
+          "treine"
+        ],
+        [
+          "Waar",
+          "en",
+          "wanneer",
+          "het",
+          "ons",
+          "dit",
+          "verloor"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tussen",
+          "treine,",
+          "tussen",
+          "stasies"
+        ],
+        [
+          "Lê",
+          "daar",
+          "basies",
+          "net",
+          "die",
+          "leë",
+          "spore"
+        ],
+        [
+          "Tussen",
+          "treine,",
+          "tussen",
+          "stasies"
+        ],
+        [
+          "Lê",
+          "die",
+          "leë",
+          "spasies",
+          "van",
+          "die",
+          "onskuld",
+          "nou",
+          "verlore"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Elke",
+          "keer",
+          "was",
+          "dit",
+          "'n",
+          "afskeid"
+        ],
+        [
+          "Maar",
+          "elke",
+          "keer",
+          "weer",
+          "'n",
+          "begin"
+        ],
+        [
+          "'n",
+          "Honderd",
+          "haltes",
+          "langs",
+          "die",
+          "spoor"
+        ],
+        [
+          "Elke",
+          "stasie",
+          "het",
+          "sy",
+          "eie",
+          "skim"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Miskien",
+          "het",
+          "ek",
+          "verleer",
+          "om",
+          "te",
+          "kyk"
+        ],
+        [
+          "Jy",
+          "bepaal",
+          "jou",
+          "eie",
+          "baan"
+        ],
+        [
+          "Soms",
+          "sien",
+          "ek",
+          "die",
+          "skadu",
+          "van",
+          "jou",
+          "spieëlbeeld"
+        ],
+        [
+          "As",
+          "spieëls",
+          "verbrokkel",
+          "voor",
+          "die",
+          "maan"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Tussen",
+          "treine,",
+          "tussen",
+          "stasies"
+        ],
+        [
+          "Lê",
+          "daar",
+          "basies",
+          "net",
+          "die",
+          "leë",
+          "spore"
+        ],
+        [
+          "Tussen",
+          "treine,",
+          "tussen",
+          "stasies"
+        ],
+        [
+          "Lê",
+          "die",
+          "leë",
+          "spasies",
+          "van",
+          "die",
+          "onskuld",
+          "nou",
+          "verlore"
+        ]
+      ]
+    }
+  ]
+}

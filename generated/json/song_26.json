@@ -1,0 +1,141 @@
+{
+  "source_file": "../../files/BitterbessieDagbreek.txt",
+  "title": "BITTERBESSIE DAGBREEK",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Laurika",
+          "Rauch"
+        ],
+        [
+          "Bitterbessie",
+          "dagbreek"
+        ],
+        [
+          "bitterbessieson"
+        ],
+        [
+          "'n",
+          "spieël",
+          "het",
+          "gebreek"
+        ],
+        [
+          "tussen",
+          "my",
+          "en",
+          "hom"
+        ],
+        [
+          "stap",
+          "ek",
+          "langs",
+          "die",
+          "grootpad"
+        ],
+        [
+          "om",
+          "daarlangs",
+          "te",
+          "draf"
+        ],
+        [
+          "oral",
+          "draai",
+          "die",
+          "paadjies"
+        ],
+        [
+          "van",
+          "sy",
+          "woorde",
+          "af"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "dennebos",
+          "herinnering"
+        ],
+        [
+          "dennebos",
+          "vergeet"
+        ],
+        [
+          "het",
+          "ek",
+          "ook",
+          "verdwaal"
+        ],
+        [
+          "trap",
+          "ek",
+          "in",
+          "my",
+          "leed"
+        ],
+        [
+          "pappagaaibont",
+          "boegoe"
+        ],
+        [
+          "kierangkierang",
+          "hy"
+        ],
+        [
+          "totdat",
+          "ek",
+          "bedroë"
+        ],
+        [
+          "weer",
+          "die",
+          "koggel",
+          "kry"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "eggo",
+          "is",
+          "geen",
+          "antwoord"
+        ],
+        [
+          "antwoord",
+          "hy",
+          "aan",
+          "hom"
+        ],
+        [
+          "bitterbessiedagbreek"
+        ],
+        [
+          "bitterbessieson"
+        ],
+        [
+          "bitterbessiedagbreek"
+        ],
+        [
+          "bitterbessieson",
+          "(x2)"
+        ]
+      ]
+    }
+  ]
+}

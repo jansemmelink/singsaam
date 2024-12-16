@@ -1,0 +1,130 @@
+{
+  "source_file": "../../files/KalfieWals.txt",
+  "title": "KALFIEWALS",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Toe",
+          "ek",
+          "nog",
+          "maar",
+          "'n",
+          "kalfie",
+          "was"
+        ],
+        [
+          "Toe",
+          "moes",
+          "ek",
+          "honger",
+          "ly."
+        ],
+        [
+          "My",
+          "ma",
+          "se",
+          "melk",
+          "in",
+          "die",
+          "boer",
+          "se",
+          "glas"
+        ],
+        [
+          "En",
+          "die",
+          "oorskiet",
+          "moes",
+          "ek",
+          "kry."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "En",
+          "as",
+          "my",
+          "ma",
+          "die",
+          "melk",
+          "laat",
+          "sak"
+        ],
+        [
+          "Moet",
+          "ek",
+          "opsy",
+          "gaan",
+          "staan"
+        ],
+        [
+          "Dan",
+          "durf",
+          "ek",
+          "nie",
+          "haar",
+          "borsie",
+          "raak"
+        ],
+        [
+          "Of",
+          "ek",
+          "word",
+          "oor",
+          "die",
+          "kop",
+          "geslaan."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "En",
+          "word",
+          "'n",
+          "perd",
+          "soms",
+          "oud",
+          "of",
+          "moeg"
+        ],
+        [
+          "Kry",
+          "hy",
+          "genade",
+          "brood."
+        ],
+        [
+          "Maar",
+          "ek",
+          "moet",
+          "na",
+          "die",
+          "slagter",
+          "gaan"
+        ],
+        [
+          "My",
+          "einde",
+          "is",
+          "die",
+          "dood."
+        ]
+      ]
+    }
+  ]
+}

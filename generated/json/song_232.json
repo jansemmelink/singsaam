@@ -1,0 +1,47 @@
+{
+  "source_file": "../../files/Siembamba.txt",
+  "title": "SIEMBAMBA",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Siembamba,",
+          "mamma",
+          "se",
+          "kindjie,"
+        ],
+        [
+          "Siembamba,",
+          "mamma",
+          "se",
+          "kindjie,"
+        ],
+        [
+          "Draai",
+          "sy",
+          "nek",
+          "om,",
+          "gooi",
+          "hom",
+          "in",
+          "die",
+          "sloot,"
+        ],
+        [
+          "Trap",
+          "op",
+          "sy",
+          "kop",
+          "dan",
+          "is",
+          "hy",
+          "dood."
+        ]
+      ]
+    }
+  ]
+}

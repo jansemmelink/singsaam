@@ -1,0 +1,65 @@
+{
+  "source_file": "../../files/SoRyDieTrein.txt",
+  "title": "SO RY DIE TREIN",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "So",
+          "ry",
+          "die",
+          "trein,",
+          "so",
+          "ry",
+          "die",
+          "trein,"
+        ],
+        [
+          "die",
+          "Kimberley",
+          "se",
+          "trein."
+        ],
+        [
+          "So",
+          "ry",
+          "die",
+          "trein,",
+          "so",
+          "ry",
+          "die",
+          "trein,"
+        ],
+        [
+          "die",
+          "Kimberley",
+          "se",
+          "trein."
+        ],
+        [
+          "Hoor",
+          "daar",
+          "hoe",
+          "stoom",
+          "hy,",
+          "stoom",
+          "hy,",
+          "stoom",
+          "hy,"
+        ],
+        [
+          "opdraand",
+          "en",
+          "afdraand,",
+          "Kimberley",
+          "se",
+          "trein."
+        ]
+      ]
+    }
+  ]
+}

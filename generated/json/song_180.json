@@ -1,0 +1,210 @@
+{
+  "source_file": "../../files/MuisInDieMelkkan.txt",
+  "title": "MUIS IN DIE MELKKAN",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ons't",
+          "baie",
+          "koeie",
+          "swart",
+          "en",
+          "bont"
+        ],
+        [
+          "Ons",
+          "drink",
+          "baie",
+          "koeimelk",
+          "dis",
+          "gesond"
+        ],
+        [
+          "Eendag",
+          "kom",
+          "ek",
+          "in",
+          "die",
+          "kombuis"
+        ],
+        [
+          "En",
+          "in",
+          "die",
+          "melkkan",
+          "swem",
+          "'n",
+          "muis."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "muis",
+          "swem",
+          "in",
+          "die",
+          "melkkan"
+        ],
+        [
+          "Die",
+          "muis",
+          "swem",
+          "in",
+          "die",
+          "melkkan"
+        ],
+        [
+          "Die",
+          "muis",
+          "swem",
+          "in",
+          "die",
+          "melkkan"
+        ],
+        [
+          "Toe",
+          "gooi",
+          "ek",
+          "die",
+          "swart",
+          "kat",
+          "in."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "swart",
+          "kat",
+          "jaag",
+          "die",
+          "muis",
+          "rond"
+        ],
+        [
+          "Die",
+          "swart",
+          "kat",
+          "jaag",
+          "die",
+          "muis",
+          "rond"
+        ],
+        [
+          "Die",
+          "muis",
+          "swem",
+          "in",
+          "die",
+          "melkkan"
+        ],
+        [
+          "Toe",
+          "gooi",
+          "ek",
+          "die",
+          "bulhond",
+          "in."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "bulhond",
+          "jaag",
+          "die",
+          "swart",
+          "kat"
+        ],
+        [
+          "Die",
+          "swart",
+          "kat",
+          "jaag",
+          "die",
+          "muis",
+          "rond"
+        ],
+        [
+          "Die",
+          "muis",
+          "swem",
+          "in",
+          "die",
+          "melkkan"
+        ],
+        [
+          "Toe",
+          "skop",
+          "ek",
+          "dit",
+          "alles",
+          "om."
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Die",
+          "melk",
+          "loop",
+          "op",
+          "die",
+          "grond",
+          "rond,"
+        ],
+        [
+          "Die",
+          "melk",
+          "loop",
+          "op",
+          "die",
+          "grond",
+          "rond"
+        ],
+        [
+          "Die",
+          "melk",
+          "loop",
+          "op",
+          "die",
+          "grond",
+          "rond"
+        ],
+        [
+          "Toe",
+          "vee",
+          "ek",
+          "dit",
+          "alles",
+          "op."
+        ]
+      ]
+    }
+  ]
+}

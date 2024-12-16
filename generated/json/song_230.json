@@ -1,0 +1,103 @@
+{
+  "source_file": "../../files/SawensOmDieVuurtjie.txt",
+  "title": "SAWENS OM DIE VUURTJIE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Sawens",
+          "om",
+          "die",
+          "vuurtjie,",
+          "ja-ho,",
+          "ja-ho!"
+        ],
+        [
+          "Sawens",
+          "om",
+          "die",
+          "vuurtjie,",
+          "ja-ho,",
+          "ja-ho!"
+        ],
+        [
+          "Sawens",
+          "om",
+          "die",
+          "vuurtjie"
+        ],
+        [
+          "sing",
+          "ons",
+          "almal",
+          "lekker",
+          "saam,"
+        ],
+        [
+          "Sing",
+          "ons",
+          "saam",
+          "'n",
+          "liedjie,",
+          "leer",
+          "mekaar",
+          "verstaan."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Oor",
+          "ons",
+          "wink",
+          "die",
+          "sterre,",
+          "ja-ho,",
+          "ja-ho!"
+        ],
+        [
+          "Oor",
+          "ons",
+          "wink",
+          "die",
+          "sterre,",
+          "ja-ho,",
+          "ja-ho!"
+        ],
+        [
+          "Oor",
+          "ons",
+          "wink",
+          "die",
+          "sterre"
+        ],
+        [
+          "en",
+          "ons",
+          "harte",
+          "jubel",
+          "saam",
+          "-"
+        ],
+        [
+          "Net",
+          "die",
+          "sterre",
+          "oor",
+          "ons",
+          "en",
+          "die",
+          "sekelmaan"
+        ]
+      ]
+    }
+  ]
+}

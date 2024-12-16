@@ -1,0 +1,361 @@
+{
+  "source_file": "../../files/Lalie.txt",
+  "title": "LALIE",
+  "artists": [
+    "Koos Kombuis"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Lalie,",
+          "jy't",
+          "vir",
+          "my",
+          "gesê,"
+        ],
+        [
+          "so",
+          "lank",
+          "soos",
+          "die",
+          "lepel",
+          "in",
+          "die",
+          "papbord",
+          "lê,"
+        ],
+        [
+          "Solank",
+          "soos",
+          "Ouma",
+          "nog",
+          "kleinkinders",
+          "wil",
+          "hê,"
+        ],
+        [
+          "sal",
+          "jy",
+          "my",
+          "by",
+          "jou",
+          "laat",
+          "lê."
+        ],
+        [
+          "Maar",
+          "Lalie,",
+          "nou's",
+          "dit",
+          "donker",
+          "maan,"
+        ],
+        [
+          "en",
+          "daar's",
+          "goed",
+          "wat",
+          "ek",
+          "nie",
+          "kan",
+          "verstaan,"
+        ],
+        [
+          "Wat",
+          "nou",
+          "gebeur",
+          "het,",
+          "was",
+          "mos",
+          "nooit",
+          "ons",
+          "plan,"
+        ],
+        [
+          "Lalie,",
+          "jy",
+          "weet",
+          "jy",
+          "erf",
+          "my",
+          "van"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Lalie,",
+          "amper",
+          "is",
+          "nie",
+          "stamper,"
+        ],
+        [
+          "en",
+          "wie",
+          "dra",
+          "nou",
+          "jou",
+          "yellow",
+          "jumper,"
+        ],
+        [
+          "Daar's",
+          "'n",
+          "nuwe",
+          "sticker",
+          "op",
+          "jou",
+          "bumper,"
+        ],
+        [
+          "daar's",
+          "'n",
+          "ander",
+          "ou",
+          "wat",
+          "jou",
+          "nou",
+          "pamper,",
+          "pamper"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Jou",
+          "boyfriend",
+          "dra",
+          "jou",
+          "rose",
+          "aan,"
+        ],
+        [
+          "maar",
+          "roos",
+          "blare",
+          "sal",
+          "gou",
+          "vergaan"
+        ],
+        [
+          "En",
+          "stadsgedruis",
+          "mos",
+          "straks",
+          "verslaan,"
+        ],
+        [
+          "soos",
+          "seker",
+          "soos",
+          "die",
+          "lepel",
+          "innie",
+          "papbord",
+          "staan"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek",
+          "sien",
+          "jou",
+          "Sondags",
+          "oppie",
+          "stoep,"
+        ],
+        [
+          "en",
+          "ek",
+          "sweer",
+          "jy",
+          "hoor",
+          "die",
+          "dorpseuns",
+          "roep"
+        ],
+        [
+          "Lalie,",
+          "Lalie",
+          "kom",
+          "tog",
+          "terug,"
+        ],
+        [
+          "true",
+          "love",
+          "druk",
+          "deur",
+          "soos",
+          "'n",
+          "poep,",
+          "poep,",
+          "poep"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "La-la-la-la"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Lange",
+          "nagte's",
+          "jy",
+          "al",
+          "fort,"
+        ],
+        [
+          "lange",
+          "dae",
+          "wat",
+          "weke",
+          "word"
+        ],
+        [
+          "Ons",
+          "pap",
+          "begin",
+          "al",
+          "koud",
+          "word",
+          "innie",
+          "bord,"
+        ],
+        [
+          "Lalie,",
+          "life",
+          "is",
+          "gans",
+          "te",
+          "short"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Lalie,",
+          "kom",
+          "terug",
+          "na",
+          "die",
+          "veld",
+          "toe,"
+        ],
+        [
+          "stuur",
+          "hom",
+          "terug",
+          "na",
+          "die",
+          "land",
+          "van",
+          "geld",
+          "toe,"
+        ],
+        [
+          "Ek",
+          "was",
+          "van",
+          "hoeka",
+          "af",
+          "jou",
+          "held,",
+          "toe,",
+          "Lalie,",
+          "stuur",
+          "hom",
+          "na",
+          "sy",
+          "hel",
+          "toe"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Mmmmmmm"
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Lalie,",
+          "jy't",
+          "vir",
+          "my",
+          "gesê,"
+        ],
+        [
+          "so",
+          "lank",
+          "soos",
+          "die",
+          "lepel",
+          "in",
+          "die",
+          "papbord",
+          "lê,"
+        ],
+        [
+          "So",
+          "lank",
+          "soos",
+          "Ouma",
+          "nog",
+          "kleinkinders",
+          "wil",
+          "hê,",
+          "sal",
+          "jy",
+          "my",
+          "by",
+          "jou",
+          "laat",
+          "lê."
+        ]
+      ]
+    }
+  ]
+}

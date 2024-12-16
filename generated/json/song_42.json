@@ -1,0 +1,413 @@
+{
+  "source_file": "../../files/Byeboerwa.txt",
+  "title": "BYEBOERWA",
+  "artists": [
+    "Carike Keuzenkamp"
+  ],
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "1891",
+          "PELGRIMSRUS",
+          "TOE",
+          "BYEBOER"
+        ],
+        [
+          "UIT",
+          "DIE",
+          "BED",
+          "OPSTAAN"
+        ],
+        [
+          "HY'S",
+          "VAS",
+          "BESLUIT",
+          "HY",
+          "TREK",
+          "HIER",
+          "UIT,"
+        ],
+        [
+          "WANT",
+          "HY",
+          "WIL",
+          "NA",
+          "DIE",
+          "STILTES",
+          "GAAN"
+        ],
+        [
+          "EN",
+          "HY",
+          "PAK",
+          "SY",
+          "WA,",
+          "SY",
+          "OSSEWA,",
+          "BYEBOERWA"
+        ],
+        [
+          "SY",
+          "TENT",
+          "EN",
+          "SY",
+          "DONKIES",
+          "SAAM,"
+        ],
+        [
+          "EN",
+          "HY",
+          "KOM",
+          "TOE",
+          "OP",
+          "DIE",
+          "GROOTPAD",
+          "AAN"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "RONDOM",
+          "GRASKOP",
+          "DAAR",
+          "LOOP",
+          "SY",
+          "SPOOR"
+        ],
+        [
+          "TUSSEN",
+          "SABIE",
+          "EN",
+          "MALIEVELD"
+        ],
+        [
+          "BY",
+          "DIE",
+          "KROKODILPOORTBERG",
+          "TREK",
+          "HY",
+          "OOR"
+        ],
+        [
+          "EN",
+          "HY",
+          "KOM",
+          "TOE",
+          "TOT",
+          "OP",
+          "BARBERTON"
+        ],
+        [
+          "DIE",
+          "WIELE",
+          "ROL",
+          "SY",
+          "OSSEWA",
+          "BYEBOERWA,"
+        ],
+        [
+          "DIE",
+          "KAKEBEEN",
+          "BYEBOERWA"
+        ],
+        [
+          "KAN",
+          "DIE",
+          "SWAAR",
+          "VRAG",
+          "NET-NET",
+          "DRA"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "DIE",
+          "BYEBOER,",
+          "BYEBOER,",
+          "BYEBOERWA,"
+        ],
+        [
+          "BLOM",
+          "IN",
+          "DIE",
+          "HARE",
+          "EN",
+          "BYE",
+          "WAT",
+          "PLA"
+        ],
+        [
+          "OP",
+          "SY",
+          "OSSEWA,",
+          "OSSEWA",
+          "BYEBOERWA,"
+        ],
+        [
+          "BLOM",
+          "IN",
+          "DIE",
+          "HARE",
+          "EN",
+          "BYE",
+          "WAT",
+          "PLA"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "1893",
+          "SPAN",
+          "HY",
+          "UIT",
+          "EN",
+          "MAAK",
+          "'N",
+          "HARTBEESHUISIE",
+          "STAAN"
+        ],
+        [
+          "LEBOMBOBERGE",
+          "KON",
+          "HOM",
+          "NIE",
+          "STUIT"
+        ],
+        [
+          "BY",
+          "DIE",
+          "LIMPOPO",
+          "GEIL",
+          "SY",
+          "GRAAN"
+        ],
+        [
+          "DAAR",
+          "STAAN",
+          "SY",
+          "WA,",
+          "SY",
+          "OSSEWA",
+          "BYEBOERWA"
+        ],
+        [
+          "EN",
+          "SY",
+          "HART",
+          "IS",
+          "BLY",
+          "EN",
+          "VRY",
+          "MET",
+          "DIE",
+          "STILTE",
+          "AAN",
+          "SY",
+          "SY"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "DIE",
+          "BYEBOER,",
+          "BYEBOER,",
+          "BYEBOERWA,"
+        ],
+        [
+          "BLOM",
+          "IN",
+          "DIE",
+          "HARE",
+          "EN",
+          "BYE",
+          "WAT",
+          "PLA"
+        ],
+        [
+          "OP",
+          "SY",
+          "OSSEWA,",
+          "OSSEWA",
+          "BYEBOERWA,"
+        ],
+        [
+          "BLOM",
+          "IN",
+          "DIE",
+          "HARE",
+          "EN",
+          "BYE",
+          "WAT",
+          "PLA"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "1930",
+          "HY'S",
+          "AFGELEEF",
+          "EN",
+          "BYEBOER",
+          "VOEL",
+          "STOKALLEEN"
+        ],
+        [
+          "HY",
+          "MIS",
+          "DIE",
+          "JOLYT",
+          "VAN",
+          "PELGRIMSRUS"
+        ],
+        [
+          "EN",
+          "VRYF",
+          "NOU",
+          "OOR",
+          "SY",
+          "KAKEBEEN"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "MAAR",
+          "IN",
+          "1930",
+          "PERGRIMSRUS"
+        ],
+        [
+          "IS",
+          "DIE",
+          "DORP",
+          "SE",
+          "GEES",
+          "GEBLUS"
+        ],
+        [
+          "DIS",
+          "'N",
+          "SPOOKDORP",
+          "WAT",
+          "IN",
+          "STILTE",
+          "WURG"
+        ],
+        [
+          "AL",
+          "WAT",
+          "OORBLY",
+          "IS",
+          "JOHANNESBURG"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "DAAR",
+          "TREK",
+          "SY",
+          "WA",
+          "SY",
+          "OSSEWA",
+          "BYEBOERWA"
+        ],
+        [
+          "EN",
+          "SY",
+          "TENT",
+          "EN",
+          "SY",
+          "DONKIES",
+          "SAAM"
+        ],
+        [
+          "EN",
+          "HY",
+          "KOM",
+          "OP",
+          "DIE",
+          "GROOTPAD",
+          "AAN"
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "DIE",
+          "BYEBOER,",
+          "BYEBOER,",
+          "BYEBOERWA,"
+        ],
+        [
+          "BLOM",
+          "IN",
+          "DIE",
+          "HARE",
+          "EN",
+          "BYE",
+          "WAT",
+          "PLA"
+        ],
+        [
+          "OP",
+          "SY",
+          "OSSEWA,",
+          "OSSEWA",
+          "BYEBOERWA"
+        ],
+        [
+          "BLOM",
+          "IN",
+          "DIE",
+          "HARE",
+          "EN",
+          "BYE",
+          "WAT",
+          "PLA"
+        ]
+      ]
+    }
+  ]
+}

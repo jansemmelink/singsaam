@@ -1,0 +1,62 @@
+{
+  "source_file": "../../files/EkSoekNaMyDina.txt",
+  "title": "EK SOEK NA MY DINA",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Ek",
+          "soek",
+          "na",
+          "my",
+          "Dina,",
+          "my",
+          "Dina,",
+          "my",
+          "Dina;"
+        ],
+        [
+          "Ek",
+          "soek",
+          "na",
+          "my",
+          "Dina,"
+        ],
+        [
+          "Die",
+          "Dina",
+          "van",
+          "my."
+        ],
+        [
+          "O,",
+          "hier",
+          "is",
+          "my",
+          "Dina,",
+          "my",
+          "Dina,",
+          "my",
+          "Dina."
+        ],
+        [
+          "O,",
+          "hier",
+          "is",
+          "my",
+          "Dina,"
+        ],
+        [
+          "Die",
+          "Dina",
+          "van",
+          "my."
+        ]
+      ]
+    }
+  ]
+}

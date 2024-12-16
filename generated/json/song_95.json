@@ -1,0 +1,84 @@
+{
+  "source_file": "../../files/GroenKoringlande.txt",
+  "title": "GROEN KORINGLANDE",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Elke",
+          "aand",
+          "langs",
+          "die",
+          "groen",
+          "koringlande"
+        ],
+        [
+          "Wag",
+          "jy",
+          "daar",
+          "as",
+          "die",
+          "skaduwees",
+          "daal."
+        ],
+        [
+          "Hand",
+          "aan",
+          "hand",
+          "deur",
+          "die",
+          "groen",
+          "koringlande"
+        ],
+        [
+          "Sal",
+          "ons",
+          "saam",
+          "in",
+          "die",
+          "skemering",
+          "dwaal."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "As",
+          "die",
+          "maan",
+          "deur",
+          "die",
+          "wolke",
+          "vir",
+          "ons",
+          "loer"
+        ],
+        [
+          "Word",
+          "ons",
+          "saam",
+          "na",
+          "'n",
+          "paradys",
+          "gevoer."
+        ],
+        [
+          "Drome",
+          "droom",
+          "ons",
+          "in",
+          "groen",
+          "koringlande"
+        ]
+      ]
+    }
+  ]
+}

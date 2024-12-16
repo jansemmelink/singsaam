@@ -1,0 +1,227 @@
+{
+  "source_file": "../../files/VaderVisser.txt",
+  "title": "VADER VISSER",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          ":Wysie:Vader",
+          "Jacob"
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Vader",
+          "Visser,",
+          "Vader",
+          "Visser,"
+        ],
+        [
+          "Wie",
+          "was",
+          "hy,",
+          "wie",
+          "was",
+          "hy?"
+        ],
+        [
+          "Vader",
+          "van",
+          "die",
+          "Trekkers"
+        ],
+        [
+          "Vader",
+          "van",
+          "die",
+          "Trekkers"
+        ],
+        [
+          "Dit",
+          "is",
+          "hy,",
+          "dit",
+          "is",
+          "hy."
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "MM",
+          "Jansen,",
+          "MM",
+          "Jansen,"
+        ],
+        [
+          "Wie",
+          "was",
+          "sy,",
+          "wie",
+          "was",
+          "sy?"
+        ],
+        [
+          "Eerste",
+          "Trekkervlag,"
+        ],
+        [
+          "Eerste",
+          "Trekkervlag,"
+        ],
+        [
+          "Self",
+          "gemaak,",
+          "self",
+          "gemaak."
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Prof",
+          "B",
+          "Taute,",
+          "Prof",
+          "B",
+          "Taute,"
+        ],
+        [
+          "Wat",
+          "sê",
+          "hy,",
+          "wat",
+          "sê",
+          "hy?"
+        ],
+        [
+          "Kyk",
+          "hoe",
+          "lyk",
+          "ons",
+          "wapen,"
+        ],
+        [
+          "Kyk",
+          "hoe",
+          "lyk",
+          "ons",
+          "wapen,"
+        ],
+        [
+          "Mooi",
+          "en",
+          "reg,",
+          "mooi",
+          "en",
+          "reg."
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Oom",
+          "Japie",
+          "Heese,",
+          "Oom",
+          "Japie",
+          "Heese,"
+        ],
+        [
+          "Wat",
+          "kies",
+          "hy,",
+          "wat",
+          "kies",
+          "hy?"
+        ],
+        [
+          "Name",
+          "van",
+          "ons",
+          "P/D's,"
+        ],
+        [
+          "Name",
+          "van",
+          "ons",
+          "P/D's,"
+        ],
+        [
+          "Goed",
+          "gepas,",
+          "goed",
+          "gepas."
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "NJ",
+          "van",
+          "der",
+          "Merwe,",
+          "NJ",
+          "van",
+          "der",
+          "Merwe,"
+        ],
+        [
+          "Wat",
+          "gee",
+          "hy,",
+          "wat",
+          "gee",
+          "hy?"
+        ],
+        [
+          "Hou",
+          "Koers",
+          "as",
+          "ons",
+          "leuse,"
+        ],
+        [
+          "Hou",
+          "Koers",
+          "as",
+          "ons",
+          "leuse,"
+        ],
+        [
+          "Volg",
+          "dit",
+          "nou,",
+          "volg",
+          "dit",
+          "nou."
+        ]
+      ]
+    }
+  ]
+}

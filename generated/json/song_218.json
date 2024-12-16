@@ -1,0 +1,95 @@
+{
+  "source_file": "../../files/PieringoogSePa.txt",
+  "title": "PIERINGOOG SE PA",
+  "artists": null,
+  "verses": [
+    {
+      "id": 0,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Pieringoog",
+          "se",
+          "pa",
+          "het",
+          "'n",
+          "lekker",
+          "donkiewa,"
+        ],
+        [
+          "Voor",
+          "op",
+          "die",
+          "wa",
+          "sit",
+          "ou",
+          "Pieringoog",
+          "se",
+          "pa,"
+        ],
+        [
+          "Agter",
+          "op",
+          "die",
+          "briek",
+          "sit",
+          "'n",
+          "vet",
+          "koringkriek,"
+        ],
+        [
+          "Voor",
+          "langs",
+          "die",
+          "tou"
+        ],
+        [
+          "hardloop",
+          "Pieringoog",
+          "se",
+          "vrou."
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "chorus": false,
+      "bridge": false,
+      "lines": [
+        [
+          "Emma,",
+          "koelêma,",
+          "sê",
+          "ma'",
+          "vir",
+          "jou",
+          "Grêma,"
+        ],
+        [
+          "Emma",
+          "wil",
+          "'n",
+          "biskit",
+          "hê."
+        ],
+        [
+          "Emma,",
+          "koelêma,",
+          "sê",
+          "ma'",
+          "vir",
+          "jou",
+          "Grêma,"
+        ],
+        [
+          "Emma",
+          "wil",
+          "'n",
+          "biskit",
+          "hê."
+        ]
+      ]
+    }
+  ]
+}
