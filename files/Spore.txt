@@ -1,5 +1,6 @@
 SPORE
- (Wysie: Die lewe sonder jou)
+:Wysie:Die lewe sonder jou
+
 Ons spore lê ver oor die land
 Tot aan die see se suiderstrand
 Ons vuurtjie sal steeds hoër brand
