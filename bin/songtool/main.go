@@ -35,13 +35,19 @@ func main() {
 	switch {
 	case *findNew > 0:
 		if err := tool.findNew(*findNew); err != nil {
-			panic(fmt.Sprintf("failed: %+v ... but continue to save", err))
+			panic(fmt.Sprintf("failed: %+v", err))
 		}
 	default:
 		panic("no action specified")
 	}
 
+	//checks
 	tool.checkArtists()
+	if err := tool.checkText(); err != nil {
+		panic(fmt.Sprintf("failed: %+v", err))
+	}
+	//tool.checkChorus()
+
 	log.Debugf("Tool has %d songs", len(tool.songs))
 
 	if *exportJson != "" {
@@ -112,7 +118,20 @@ func (tool tool) checkArtists() {
 	for _, artist := range list {
 		log.Debugf("%s", artist)
 	}
-} //checkArtists()
+} //tool.checkArtists()
+
+func (tool tool) checkText() error {
+	// for _, s := range tool.songs {
+	// 	r := countCharSets(s.Title)
+	// 	if r.upper >= r.lower {
+	// 		return errors.Errorf("Excessive uppercase in title: %s", s.Title)
+	// 	}
+	// 	if len(r.unknown) > 0 {
+	// 		return errors.Errorf("Unknown text characters(%s) in title %s", r.unknownChars(), s.Title)
+	// 	}
+	// }
+	return nil
+} //tool.checkCase()
 
 func (tool tool) exportJson(dir string) error {
 	for i, s := range tool.songs {

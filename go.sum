@@ -2,3 +2,5 @@ github.com/go-msvc/errors v1.3.0 h1:gOqLqYZm5C6Yot/ofZLVyKnnGNdY9xC5Ev937oolfTU=
 github.com/go-msvc/errors v1.3.0/go.mod h1:dbMiCuWpUiARCkC19IDEpcGIx11VYWq1+vGfF0NAenA=
 github.com/go-msvc/logger v1.1.0 h1:/hYs3uWtA+4rKS6WxJDCCd9/KhnUuvaIo5s+4qllfZ8=
 github.com/go-msvc/logger v1.1.0/go.mod h1:qHIjKcyl03uKxD2SrJa6UqSfp0RuOiuOSyb8i1NLhKw=
+golang.org/x/text v0.21.0 h1:zyQAAkrwaneQ066sspRyJaG9VNi/YJ1NfzcGB3hZ/qo=
+golang.org/x/text v0.21.0/go.mod h1:4IBbMaMmOPCJ8SecivzSH54+73PCFmPWxNTLm+vZkEQ=
